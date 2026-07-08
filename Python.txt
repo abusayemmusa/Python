@@ -1,10 +1,10 @@
-# introduction
+#  introduction
 Python is a high-level, general-purpose programming language celebrated for its clean, English-like syntax and emphasis on code readability. Created by Guido van Rossum and released in 1991, Python is designed to let you write clear, logical code for projects of all sizes. It is an interpreted language, meaning code is executed line-by-line, allowing for rapid testing and prototyping.
 
-# key concepts of Python
+#  key concepts of Python
 The core philosophy of Python is readability, simplicity, and versatility. It uses clean, intuitive syntax heavily dependent on indentation, allowing developers to express concepts in fewer lines of code than languages like Java or C++.
 
-# input output of python
+#  input output of python
 @Standard Data Input
 // Capturing text
 user_name = input("Enter your name: ")
@@ -12,19 +12,72 @@ user_name = input("Enter your name: ")
 user_age = int(input("Enter your age: "))
 // Capturing decimals
 product_price = float(input("Enter item price: "))
-
-@Standard Data Output
+@  Standard Data Output
 // Printing basic text
 print("Processing complete.")
 // Printing multiple elements
 print("User name is", user_name, "and age is", user_age)
 // High-readability formatting (f-strings)
 print(f"Thank you {user_name}. Next year you will be {user_age + 1} years old.")
-
-@Multi-Value One-Line Inputs
+@  Multi-Value One-Line Inputs
 //Input layout: "Apple Banana Cherry"
 first, second, third = input("Enter three items: ").split()
 //Input layout: "10 20 30"
 num1, num2, num3 = map(int, input("Enter three numbers: ").split())
 
-#
+#Operators
+1. Arithmetic Operators
+Addition(+)
+Subtraction(-)
+Multiplication(*)
+Division(/)
+Floor Division(//)
+Modulus(%)
+Exponentiation(**)
+2. Assignment Operators
+Assignment(=)
+Addition Assignment(+=)
+Subtraction Assignment(-=)
+Multiplication Assignment(*=)
+Division Assignment(/=)
+Floor Division Assignment(//=)
+Modulus Assignment(%=)
+Exponent Assignment(**=)
+3. Comparison Operators
+Equal to(==)
+Not equal to(!=)
+Greater than(>)
+Less than(<)
+Greater than or equal to(>=)
+Less than or equal to(<=)
+4. Logical Operators
+Logical AND(and)
+Logical OR(or)
+Logical NOT(not)
+5. Identity Operators
+Identity Match(is)
+Identity Mismatch(is not)
+6. Membership Operators
+Element Contained(in)
+Element Missing(not in)
+7. Bitwise Operators
+Bitwise AND(&)
+Bitwise OR(|)
+Bitwise XOR(^)
+Bitwise NOT(~)
+Zero fill left shift(<<)
+Signed right shift(>>)
+
+#  Keywords 
+1.Value Keywords(True, False, None)
+2.Logical & Membership Operators(and, or, not, is, in)
+3.Control Flow & Conditionals(if, else, elif)
+4.Loops & Iteration(for, while, break, continue, pass)
+5.Exception Handling(try, except, finally, raise, assert)
+6.Modules & Namespace(import, from, as)
+7.Variable Scope & Object Management
+
+
+
+
+
