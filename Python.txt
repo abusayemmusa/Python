@@ -20,3 +20,11 @@ print("Processing complete.")
 print("User name is", user_name, "and age is", user_age)
 // High-readability formatting (f-strings)
 print(f"Thank you {user_name}. Next year you will be {user_age + 1} years old.")
+
+@Multi-Value One-Line Inputs
+//Input layout: "Apple Banana Cherry"
+first, second, third = input("Enter three items: ").split()
+//Input layout: "10 20 30"
+num1, num2, num3 = map(int, input("Enter three numbers: ").split())
+
+#
