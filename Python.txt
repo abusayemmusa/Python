@@ -75,8 +75,8 @@ Signed right shift(>>)
 4.Loops & Iteration(for, while, break, continue, pass)
 5.Exception Handling(try, except, finally, raise, assert)
 6.Modules & Namespace(import, from, as)
-7.Variable Scope & Object Management
-
+7.Variable Scope & Object Management(global, nonlocal, del)
+8.Context Managers & Asynchronous Programming(async, await, with)
 
 
 
