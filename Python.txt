@@ -1,1 +1,22 @@
+# introduction
+Python is a high-level, general-purpose programming language celebrated for its clean, English-like syntax and emphasis on code readability. Created by Guido van Rossum and released in 1991, Python is designed to let you write clear, logical code for projects of all sizes. It is an interpreted language, meaning code is executed line-by-line, allowing for rapid testing and prototyping.
 
+# key concepts of Python
+The core philosophy of Python is readability, simplicity, and versatility. It uses clean, intuitive syntax heavily dependent on indentation, allowing developers to express concepts in fewer lines of code than languages like Java or C++.
+
+# input output of python
+@Standard Data Input
+// Capturing text
+user_name = input("Enter your name: ")
+// Capturing whole numbers
+user_age = int(input("Enter your age: "))
+// Capturing decimals
+product_price = float(input("Enter item price: "))
+
+@Standard Data Output
+// Printing basic text
+print("Processing complete.")
+// Printing multiple elements
+print("User name is", user_name, "and age is", user_age)
+// High-readability formatting (f-strings)
+print(f"Thank you {user_name}. Next year you will be {user_age + 1} years old.")
