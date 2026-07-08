@@ -14,3 +14,4 @@ if cal == "mul":
 if cal == "div":
   div = user / user2
   print(div)
+
