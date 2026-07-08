@@ -78,6 +78,7 @@ Signed right shift(>>)
 7.Variable Scope & Object Management(global, nonlocal, del)
 8.Context Managers & Asynchronous Programming(async, await, with)
 
+# Data Types
 
 
 
