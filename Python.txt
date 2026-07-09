@@ -1,8 +1,15 @@
+==============================================================================================================
+Python Besic
+==============================================================================================================
 #  introduction
 Python is a high-level, general-purpose programming language celebrated for its clean, English-like syntax and emphasis on code readability. Created by Guido van Rossum and released in 1991, Python is designed to let you write clear, logical code for projects of all sizes. It is an interpreted language, meaning code is executed line-by-line, allowing for rapid testing and prototyping.
 
+==============================================================================================================
+
 #  key concepts of Python
 The core philosophy of Python is readability, simplicity, and versatility. It uses clean, intuitive syntax heavily dependent on indentation, allowing developers to express concepts in fewer lines of code than languages like Java or C++.
+
+===============================================================================================================
 
 #  input output of python
 @Standard Data Input
@@ -24,6 +31,8 @@ print(f"Thank you {user_name}. Next year you will be {user_age + 1} years old.")
 first, second, third = input("Enter three items: ").split()
 //Input layout: "10 20 30"
 num1, num2, num3 = map(int, input("Enter three numbers: ").split())
+
+==============================================================================================================
 
 #Operators
 1. Arithmetic Operators
@@ -68,6 +77,8 @@ Bitwise NOT(~)
 Zero fill left shift(<<)
 Signed right shift(>>)
 
+==============================================================================================================
+
 #  Keywords 
 1.Value Keywords(True, False, None)
 2.Logical & Membership Operators(and, or, not, is, in)
@@ -77,6 +88,8 @@ Signed right shift(>>)
 6.Modules & Namespace(import, from, as)
 7.Variable Scope & Object Management(global, nonlocal, del)
 8.Context Managers & Asynchronous Programming(async, await, with)
+
+==============================================================================================================
 
 # Data Types:
           Python Data Types
@@ -96,8 +109,16 @@ Set(set, frozenset)->{"a", "b"}
 Boolean(bool)->(True, False)
 None(NoneType)->(None)
 
-#Conditional Statements in Python
+==============================================================================================================
+
+# Conditional Statements in Python
+
 @ if
+age = 20
+if age >= 18:
+    print("You are eligible to vote.")  # Runs because condition is True
+
+$ flowchart
        [ Start ]
            │
            ▼
@@ -116,6 +137,13 @@ None(NoneType)->(None)
      [ Rest of Code ]
 
 @ if-else
+age = 16
+if age >= 18:
+    print("You are an adult.")
+else:
+    print("You are a minor.")  # Runs because the 'if' condition failed
+
+$ flowchart
              [ Start ]
                  │
                  ▼
@@ -135,6 +163,17 @@ None(NoneType)->(None)
           [ Rest of Code ]
 
 @ if-elif-else
+score = 85
+if score >= 90:
+    print("Grade: A")
+elif score >= 80:
+    print("Grade: B")  # Runs because 85 >= 80 is True
+elif score >= 70:
+    print("Grade: C")
+else:
+    print("Grade: F")
+
+$ flowchart
                  [ Start ]
                      │
                      ▼
@@ -162,7 +201,16 @@ None(NoneType)->(None)
               [ Rest of Code ]
 
 
- @ nested if-else
+@ nested if-else
+if outer_condition:
+    if inner_condition:
+        print("Both conditions met.")
+    else:
+        print("Outer met, but inner failed.")
+else:
+    print("Outer condition failed.")
+
+$ flowchart
                  [ Start ]
                      │
                      ▼
@@ -188,27 +236,150 @@ None(NoneType)->(None)
                                     ▼
                                  [ End ]
 
+==============================================================================================================
+
+# Loops
+
+@ for 
+for i in range(1, 4):
+    print("Iteration:", i)
+
+$ flowchart
+               [ Start ]
+                   │
+                   ▼
+           ┌───────────────┐
+           │ Get Sequence  │◄─────────────────────┐
+           └───────┬───────┘                      │
+                   │                              │
+                   ▼                              │
+                 ╱   ╲                            │
+               ╱       ╲     Yes (Items left)  ┌──┴──┐
+             ◄   Items   ►────────────────────►│ Body│
+               ╲ Left? ╱                       └─────┘
+                 ╲   ╱
+                   │ No (No items left)
+                   ▼
+                [ End ]
+
+@ while
+count = 1
+while count <= 3:
+    print("Count is:", count)
+    count += 1  
+
+$ flowchart        
+              [ Start ]
+                  │
+                  ▼
+          ┌───────────────┐
+          │ Evaluate Cond.│◄─────────────────────┐
+          └───────┬───────┘                      │
+                  │                              │
+                  ▼                              │
+                ╱   ╲                            │
+              ╱       ╲       Yes (True)      ┌──┴──┐
+            ◄  Condition►────────────────────►│ Body│
+              ╲ Checked ╱                     └─────┘
+                ╲   ╱
+                  │ No (False)
+                  ▼
+               [ End ]
+
+@ nested loop 
+for x in [1, 2]:
+    for y in ['A', 'B', 'C']:
+        print(f"x: {x}, y: {y}")
+
+$ flowchart
+               [ Start ]
+                   │
+                   ▼
+        ┌─────────────────────────┐
+        │    Outer Loop Begins    │◄────────────────────────┐
+        └──────────┬──────────────┘                         │
+                   │                                        │
+                   ▼                                        │
+            /─────────────\                                 │
+           /   Outer Loop  \       False                    │
+          <    Condition    >─────────────────┐             │
+           \    Valid?     /                  │             │
+            \─────────────/                   │             │
+                   │ True                     │             │
+                   ▼                          │             │
+        ┌─────────────────────────┐           │             │
+        │    Inner Loop Begins    │◄────┐     │             │
+        └──────────┬──────────────┘     │     │             │
+                   │                    │     │             │
+                   ▼                    │     │             │
+            /─────────────\             │     │             │
+           /   Inner Loop  \     True   │     │             │
+          <    Condition    >───────────┘     │             │
+           \    Valid?     /                  │             │
+            \─────────────/                   │             │
+                   │ False                    │             │
+                   ▼                          │             │
+        ┌─────────────────────────┐           │             │
+        │  Move to Next Item in   │───────────┘             │
+        │       Outer Loop        │                         │
+        └─────────────────────────┘                         │
+                                                            │
+                                                            ▼
+                                                     [ End Program ]
+
+==============================================================================================================
+
+# Functions
+1. Built-in Functions [ print(), len(), type(), int(), str(), list() ] // https://docs.python.org/3/library/functions.html
+
+2. User-defined Functions (UDFs)
+def calculate_area(width, height):
+    return width * height  
+
+3. Lambda Functions (Anonymous)
+square = lambda x: x * x
+print(square(5)) 
+
+4. Recursive Functions
+def factorial(n):
+    if n == 1:
+        return 1  # Base case to prevent infinite loop
+    return n * factorial(n - 1)
+
+@S tructure of Inputs (Function Arguments)
+Positional Arguments
+Keyword Arguments
+Default Arguments
+Arbitrary Arguments (*args, **kwargs)
+
+Methods of a Class
+  1. Instance Methods
+    class Dog:
+    def __init__(self, name):
+        self.name = name  # Instance variable
+        
+    def bark(self):       # Instance method
+        return f"{self.name} says Woof!"
+
+  2. Class Methods
+    class Dog:
+    species = "Canine"    # Class variable
+
+    @classmethod
+    def get_species(cls): # Class method
+        return f"All dogs are {cls.species}"
+
+  3. Static Methods
+    class Dog:
+    @staticmethod
+    def IsAdult(age):     # Static method
+        return age > 2
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+==============================================================================================================
+Python Data Structures
+==============================================================================================================
+# String
 
 
 
