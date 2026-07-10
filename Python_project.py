@@ -41,4 +41,17 @@ elif number % 2 != 0:
 else:
     print(f"{number} is neither even nor odd.")
 ========================================================================================================
+# Project 3
+# Number Guessing Game
 ========================================================================================================
+
+import random
+number = random.randint(1, 100)
+while True:
+    guess = int(input("Guess a number between 1 and 100: "))
+    if number > guess:
+        print("Number is higher")
+    elif number < guess:
+        print("Number is lower")
+    elif number == guess:
+         print("You guessed it!")
