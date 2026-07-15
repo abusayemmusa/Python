@@ -5,6 +5,23 @@ Python Besic
 Python is a high-level, general-purpose programming language celebrated for its clean, English-like syntax and emphasis on code readability. Created by Guido van Rossum and released in 1991, Python is designed to let you write clear, logical code for projects of all sizes. It is an interpreted language, meaning code is executed line-by-line, allowing for rapid testing and prototyping.
 
 ==============================================================================================================
+# print function
+[A] Start Program
+       │
+       ▼
+[B] Execute: print("Hello, World! ")
+       │
+       ├───► [C] Call function: print()
+       │            │
+       │            ▼
+       │         [D] Output message to screen
+       │
+       └───► [E] Pass string argument: "Hello, World! "
+                    │
+                    ▼
+                 [F] Display text inside quotes
+
+==============================================================================================================
 
 #  key concepts of Python
 The core philosophy of Python is readability, simplicity, and versatility. It uses clean, intuitive syntax heavily dependent on indentation, allowing developers to express concepts in fewer lines of code than languages like Java or C++.
