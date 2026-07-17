@@ -69,9 +69,42 @@ if __name__ == "__main__":
   
 ========================================================================================================
 # Project 4
-# to-do-list
+# Student Grade System
 ========================================================================================================
+def get_grade(marks):
+    if marks >= 80:
+        return "A+"
+    elif marks >= 70:
+        return "A"
+    elif marks >= 60:
+        return "A-"
+    elif marks >= 50:
+        return "B"
+    elif marks >= 40:
+        return "C"
+    elif marks >= 33:
+        return "D"
+    else:
+        return "F"
 
+
+def display_result(name, marks):
+    grade = get_grade(marks)
+
+    print("\n===== Student Result =====")
+    print("Student Name:", name)
+    print("Marks:", marks)
+    print("Grade:", grade)
+
+
+def main():
+    name = input("Enter Student Name: ")
+    marks = float(input("Enter Marks (0-100): "))
+
+    display_result(name, marks)
+
+
+main()
 
 
 
