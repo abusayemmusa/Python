@@ -54,8 +54,38 @@ while True:
         print("Number is lower")
     elif number == guess:
          print("You guessed it!")
+
 ========================================================================================================
 # Project 4
+# Student Grade System
+========================================================================================================
+print("===== Student Grade System =====")
+
+name = input("Enter Student Name: ")
+marks = float(input("Enter Marks (0-100): "))
+
+if marks >= 80:
+    grade = "A+"
+elif marks >= 70:
+    grade = "A"
+elif marks >= 60:
+    grade = "A-"
+elif marks >= 50:
+    grade = "B"
+elif marks >= 40:
+    grade = "C"
+elif marks >= 33:
+    grade = "D"
+else:
+    grade = "F"
+
+print("\n----- Result -----")
+print("Student Name:", name)
+print("Marks:", marks)
+print("Grade:", grade)
+
+========================================================================================================
+# Project 5
 # to-do-list 
 ========================================================================================================
 def main():
@@ -86,10 +116,5 @@ def main():
             print("Exiting the program.")
             break
 ========================================================================================================
-# Project 5
-# Student Grade System
 ========================================================================================================
-
-
-
 
