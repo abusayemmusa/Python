@@ -58,7 +58,36 @@ while True:
 # Project 4
 # to-do-list 
 ========================================================================================================
-
+def main():
+    tasks = []
+    print("1. Add Task\n2. View Tasks\n3. Delete Task\n4. Exit")
+    while True:   
+        choice = input("Enter your choice: ")
+        if choice == "1":
+            task = input("add the task: ")
+            tasks.append(task)
+            print(f"-'{task}' added successfully!")
+        elif choice == "2":
+            if not tasks:
+                print("No tasks in the list.")
+            else:
+                for task in tasks:
+                    print(f"- {task}")
+        elif choice == "3":
+            if not tasks:
+                print("No tasks to delete.")
+            else:
+                if task in tasks:
+                     # tasks.remove(task)
+                     task_name = input("Enter the task name to delete: ")
+                     tasks.remove(task_name)
+                    
+        elif choice == "4":
+            print("Exiting the program.")
+            break
+========================================================================================================
+# Project 5
+========================================================================================================
 
 
 
