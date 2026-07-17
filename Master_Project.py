@@ -107,13 +107,45 @@ main()
 
 
 ========================================================================================================
-
-
+# Project 5
+# to-do-list 
 ========================================================================================================
+def main():
+    tasks = []
+    total_task = int(input("Enter your total task:"))
+    for i in range(1, total_task + 1):
+        task_name = input(f"enter your task name{i}:")
+        tasks.append(task_name)
+    print("1. Add Task\n2. View Tasks\n3. Delete Task\n4. Exit")
+    while True:   
+        choice = input("Enter your choice: ")
+        if choice == "1":
+            task = input("add the task: ")
+            tasks.append(task)
+            print(f"-'{task}' added successfully!")
+        elif choice == "2":
+            if not tasks:
+                print("No tasks in the list.")
+            else:
+                for task in tasks:
+                    print(f"- {task}")
+        elif choice == "3":
+            if not tasks:
+                print("No tasks to delete.")
+            else:
+                delete_task = input("Enter the task name to delete: ")
 
+                if delete_task in tasks:
+                    tasks.remove(delete_task)
+                    print(f"'{delete_task}' deleted successfully!")
+                else:
+                    print("Task not found.")
+        elif choice == "4":
+            print("Exiting the program.")
+            break
 
-
-
+if __name__ == "__main__":
+    main()
 ========================================================================================================
 ========================================================================================================
 ========================================================================================================
