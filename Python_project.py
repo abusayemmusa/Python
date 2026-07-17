@@ -119,5 +119,17 @@ def main():
 if __name__ == "__main__":
     main()
 ========================================================================================================
+# Project 6
+# Temperature Converter Formula
 ========================================================================================================
-
+choice = input("Enter your choice c or f: ")
+if choice == "f":
+   f = float(input("Enter the temperature in Fahrenheit: "))
+   c = (f - 32) * 5/9
+   print(f"{f} Fahrenheit is {c:.2f} Celsius")
+elif choice == "c":
+   c = float(input("Enter the temperature in Celsius: "))
+   f = (c * 9/5) + 32
+   print(f"{c} Celsius is {f:.2f} Fahrenheit")
+else:
+   print("Invalid choice. Please enter 'c' or 'f'.")
