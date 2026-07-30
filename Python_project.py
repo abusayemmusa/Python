@@ -120,20 +120,21 @@ if __name__ == "__main__":
     main()
 ========================================================================================================
 # Project 6
-# Temperature Converter Formula
+# Temperature Converter
 ========================================================================================================
-choice = input("Enter your choice c or f: ")
-if choice == "f":
-   f = float(input("Enter the temperature in Fahrenheit: "))
-   c = (f - 32) * 5/9
-   print(f"{f} Fahrenheit is {c:.2f} Celsius")
-elif choice == "c":
-   c = float(input("Enter the temperature in Celsius: "))
-   f = (c * 9/5) + 32
-   print(f"{c} Celsius is {f:.2f} Fahrenheit")
-else:
-   print("Invalid choice. Please enter 'c' or 'f'.")
-
+while True:
+    choice = input("Choose an option (f)  (c)  (q): ").lower()
+    if choice == "f":
+        celsius = float(input("Enter temperature in Celsius: "))
+        fahrenheit = (celsius * 9/5) + 32
+        print(f"{celsius:.2f}°C is equal to {fahrenheit:.2f}°F")
+    elif choice == "c":
+        fahrenheit = float(input("Enter temperature in Fahrenheit: "))
+        celsius = (fahrenheit - 32) * 5/9
+        print(f"{fahrenheit:.2f}°F is equal to {celsius:.2f}°C")
+    elif choice == "q":
+        print("Exiting the program.")
+        break
 ========================================================================================================
 
 
