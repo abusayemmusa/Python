@@ -150,6 +150,36 @@ if __name__ == "__main__":
 # Project 6
 # Temperature Converter
 ========================================================================================================
+def celsius_to_fahrenheit(celsius):
+    return (celsius * 9/5) + 32
+def fahrenheit_to_celsius(fahrenheit):
+    return (fahrenheit - 32) * 5/9
+
+def main():
+    while True:
+        print("\nTemperature Converter")
+        print("1. Celsius to Fahrenheit")
+        print("2. Fahrenheit to Celsius")
+        print("3. Quit")
+    
+        choice = input("Please select an option (1 or 2 or 3): ")
+    
+        if choice == '1':
+            celsius = float(input("Enter temperature in Celsius: "))
+            fahrenheit = celsius_to_fahrenheit(celsius)
+            print(f"{celsius}°C is equal to {fahrenheit}°F")
+        elif choice == '2':
+            fahrenheit = float(input("Enter temperature in Fahrenheit: "))
+            celsius = fahrenheit_to_celsius(fahrenheit)
+            print(f"{fahrenheit}°F is equal to {celsius}°C")
+        elif choice == '3':
+            print("Exiting the program.")
+            break
+        else:
+            print("Invalid option selected.")
+
+if __name__ == "__main__":
+    main()
 ========================================================================================================
 ========================================================================================================
 ========================================================================================================
