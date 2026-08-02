@@ -181,7 +181,22 @@ def main():
 if __name__ == "__main__":
     main()
 ========================================================================================================
+# Project 7
+# Password Generator Random
 ========================================================================================================
+import random
+import string
+
+def generate_password(length=12):
+    # Define character pools
+    chars = string.ascii_letters + string.digits + string.punctuation
+    
+    # Pick random characters from the pool
+    password = ''.join(random.choice(chars) for _ in range(length))
+    return password
+
+# Example usage
+print("Generated Password:", generate_password(16))
 ========================================================================================================
 ========================================================================================================
 ========================================================================================================
