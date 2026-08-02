@@ -139,10 +139,12 @@ while True:
 # Project 7
 # Password Generator Random
 ========================================================================================================
-
-
-
-
+import random
+import string
+length = int(input("Enter your number of length: "))
+chars = string.ascii_letters + string.digits + string.punctuation
+password = ''.join(random.choice(chars) for _ in range(length))
+print(password)
 ========================================================================================================
 # Project 11
 # Simple ATM Machine
