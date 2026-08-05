@@ -211,6 +211,25 @@ print(f"Your score is: {score}/{len(questions)} ({score_percentage}%)")
 # Simple ATM Machine
 ========================================================================================================
 # Project 12
+# Rock Paper Scissors
+========================================================================================================
+import random
+options = ["rock", "paper", "scissors"]
+computer = random.choice(options)
+
+user = input("Enter rock, paper, or scissors: ").lower()
+if user not in options:
+    print("Invalid input. Please enter rock, paper, or scissors.")
+elif user == computer:
+    print(f"Both players selected {user}. It's a tie!")
+elif user == "rock" and computer == "scissors":
+    print("Rock smashes scissors! You win!")
+elif user == "paper" and computer == "rock":
+    print("Paper covers rock! You win!")
+elif user == "scissors" and computer == "paper":
+    print("Scissors cuts paper! You win!")
+else:
+    print(f"{computer.capitalize()} beats {user}! You lose.")
 ========================================================================================================
 # Project 13
 ========================================================================================================
