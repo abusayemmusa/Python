@@ -147,9 +147,60 @@ password = ''.join(random.choice(chars) for _ in range(length))
 print(password)
 ========================================================================================================
 # Project 8
+# simple quiz game dictionary
 ========================================================================================================
+questions = (
+    "What is the capital of France?",
+    "What is the largest planet in our solar system?",
+    "What is the chemical symbol for gold?",
+    "Who painted the Mona Lisa?",
+    "What is the hardest natural substance on Earth?"
+)
+options = (
+    ("A) London", "B) Berlin", "C) Paris", "D) Madrid"),
+    ("A) Jupiter", "B) Saturn", "C) Mars", "D) Venus"),
+    ("A) Ag", "B) Au", "C) Al", "D) Ar"),
+    ("A) Vincent van Gogh", "B) Pablo Picasso", "C) Leonardo da Vinci", "D) Michelangelo"),
+    ("A) Diamond", "B) Graphite", "C) Platinum", "D) Iron")
+)
 
+answers = ("C", "A", "B", "C", "A")
+guesses = []
+score = 0
+question_num = 0
 
+for question in questions:
+    print("-------------------------")
+    print(question)
+
+    for question_option in options[question_num]:
+        print(question_option)
+
+    guess = input("Enter (A, B, C, or D): ").upper()
+    guesses.append(guess)
+    if guess == answers[question_num]:
+        score += 1
+        print("CORRECT!")
+    else:
+        print("WRONG!")
+        print(f"{answers[question_num]} is the correct answer.")
+
+    question_num += 1
+
+print("-------------------------")
+print("RESULTS")
+print("-------------------------")
+print("Answers: ", end="")
+for answer in answers:
+    print(answer, end=" ")
+print()
+print("Guesses: ", end="")
+for guess in guesses:
+    print(guess, end=" ")
+print()
+
+score_percentage = int(score / len(questions) * 100)
+print(f"Your score is: {score}/{len(questions)} ({score_percentage}%)")
 ========================================================================================================
 # Project 11
 # Simple ATM Machine
