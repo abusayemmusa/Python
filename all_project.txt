@@ -1713,4 +1713,105 @@ News Article Clustering System
 GPS Location Clustering Application
 Marketing Analytics Platform
 ========================================================================================================
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# Model Evaluation
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+========================================================================================================
+# Beginner Projects (1–10)
+========================================================================================================
+Linear Regression Model Evaluation
+House Price Prediction Evaluation
+Student Marks Prediction Evaluation
+Iris Classification Evaluation
+Titanic Classification Evaluation
+Spam Email Classifier Evaluation
+Diabetes Prediction Evaluation
+Customer Churn Evaluation
+Confusion Matrix Visualizer
+Regression Metrics Dashboard
+========================================================================================================
+# Intermediate Projects (11–20)
+========================================================================================================
+Model Comparison (Linear Regression vs Random Forest)
+Classification Metrics Dashboard
+ROC Curve Analysis
+Precision–Recall Curve
+K-Fold Cross Validation
+Stratified K-Fold Validation
+Learning Curve Visualization
+Validation Curve Analysis
+Feature Importance Analysis
+Hyperparameter Tuning Comparison
+========================================================================================================
+# Advanced Projects (21–30)
+========================================================================================================
+End-to-End Model Evaluation Pipeline
+Regression Model Benchmark
+Classification Model Benchmark
+Automated Model Comparison Tool
+Bias–Variance Analysis
+Ensemble Model Evaluation
+Time Series Model Evaluation
+Explainable AI Dashboard (SHAP/LIME)
+ML Experiment Tracking
+Model Monitoring Dashboard
+========================================================================================================
+# Regression Metrics
+========================================================================================================
+Mean Absolute Error (MAE)
+Mean Squared Error (MSE)
+Root Mean Squared Error (RMSE)
+R² Score
+Adjusted R²
+Mean Absolute Percentage Error (MAPE)
+========================================================================================================
+# Classification Metrics
+========================================================================================================
+Accuracy
+Precision
+Recall
+F1-Score
+Specificity
+ROC-AUC
+Log Loss
+Confusion Matrix
+========================================================================================================
+# Validation Techniques
+========================================================================================================
+Train/Test Split
+K-Fold Cross Validation
+Stratified K-Fold
+Leave-One-Out Cross Validation (LOOCV)
+Repeated K-Fold
+Time Series Split
+========================================================================================================
+# Tools You'll Use
+========================================================================================================
+Scikit-learn
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Yellowbrick (Visualization)
+========================================================================================================
+# Recommended Learning Order
+========================================================================================================
+Confusion Matrix Visualizer
+Regression Metrics Dashboard
+Classification Metrics Dashboard
+ROC Curve Analysis
+K-Fold Cross Validation
+Feature Importance Analysis
+Hyperparameter Tuning Comparison
+Model Comparison Tool
+Explainable AI Dashboard
+End-to-End Model Evaluation Pipeline
+========================================================================================================
+# Final Capstone Projects
+========================================================================================================
+Machine Learning Model Evaluation Dashboard
+Automated Model Comparison Tool
+End-to-End Regression Evaluation Pipeline
+End-to-End Classification Evaluation Pipeline
+Explainable AI & Performance Analysis Dashboard
 ========================================================================================================
