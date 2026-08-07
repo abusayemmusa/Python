@@ -100,6 +100,37 @@ File Backup Script
 Log Cleaner
 Data Entry Automation
 ========================================================================================================
+# Data Science & Machine Learning Projects
+========================================================================================================
+House Price Prediction
+Student Performance Prediction
+Spam Email Detection
+Sentiment Analysis
+Movie Recommendation System
+Credit Card Fraud Detection
+Stock Price Prediction
+Customer Churn Prediction
+Image Classification (CNN)
+Digit Recognition (MNIST)
+Object Detection
+NLP Text Summarizer
+Machine Translation
+Speech Recognition
+Large Language Model (LLM) Chatbot
+========================================================================================================
+# Robotics & IoT Projects
+========================================================================================================
+Line Follower Robot
+Obstacle Avoiding Robot
+Smart Home Automation
+Voice Controlled Robot
+Self-Balancing Robot
+Drone Controller
+IoT Weather Station
+Smart Agriculture System
+Smart Door Lock
+Industrial Robot Controller
+========================================================================================================
 # Data Analysis Projects
 ========================================================================================================
 Sales Data Analysis
@@ -171,10 +202,36 @@ Learning Management System (LMS)
 Hospital ERP System
 E-commerce Backend
 ========================================================================================================
+# AI + OOP Projects
 ========================================================================================================
+Chatbot
+Voice Assistant
+Face Recognition System
+Image Classifier
+Movie Recommendation System
+========================================================================================================
+# OOP Concepts Used
+========================================================================================================
+Class
+Object
+Constructor (__init__)
+Instance Variables
+Class Variables
+Methods
+Encapsulation
+Inheritance
+Polymorphism
+Abstraction
+Composition
+Aggregation
+Operator Overloading
+Magic (Dunder) Methods
+Exception Handling
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 # SQL project
-========================================================================================================
-========================================================================================================
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 # Beginner SQL Projects
 ========================================================================================================
 Student Management System
@@ -771,7 +828,318 @@ Recommendation Engine
 Machine Learning Data Preprocessing
 ========================================================================================================
 ========================================================================================================
-
+Calculus
 ========================================================================================================
 ========================================================================================================
-
+# Beginner Calculus Projects (1–15)
+========================================================================================================
+Function Plotter
+Limit Calculator
+Derivative Calculator
+Tangent Line Visualizer
+Numerical Differentiation
+Basic Integration Calculator
+Area Under Curve
+Curve Sketching
+Polynomial Analyzer
+Function Transformation Visualizer
+Trigonometric Function Plotter
+Exponential & Log Function Plotter
+Velocity Calculator
+Acceleration Calculator
+Projectile Motion Simulation
+========================================================================================================
+# Intermediate Calculus Projects (16–30)
+========================================================================================================
+Numerical Integration (Trapezoidal Rule)
+Numerical Integration (Simpson's Rule)
+Riemann Sum Visualizer
+Differential Equation Solver
+Newton-Raphson Root Finder
+Gradient Calculator
+Jacobian Matrix Calculator
+Optimization (Maximum & Minimum)
+Taylor Series Visualizer
+Maclaurin Series Approximation
+Arc Length Calculator
+Surface Area Calculator
+Volume of Revolution
+Parametric Curve Plotter
+Polar Curve Plotter
+========================================================================================================
+# Advanced Calculus Projects (31–45)
+========================================================================================================
+Partial Derivative Calculator
+Multiple Integral Calculator
+Double Integral Visualizer
+Triple Integral Calculator
+Gradient Descent Optimizer
+Ordinary Differential Equation (ODE) Solver
+Heat Equation Simulation
+Wave Equation Simulation
+Fluid Flow Simulation
+Population Growth Model
+Predator–Prey Model
+Logistic Growth Model
+Chaos (Lorenz Attractor) Visualization
+Calculus Animation Dashboard
+Scientific Computing Toolkit
+========================================================================================================
+# Real-World Projects (46–60)
+========================================================================================================
+Rocket Trajectory Simulation
+Satellite Orbit Simulation
+Robot Motion Planning
+Autonomous Vehicle Path Planning
+Physics Motion Simulator
+Bridge Load Analysis
+Electric Field Visualization
+Magnetic Field Visualization
+Signal Processing
+Image Edge Detection (Calculus Concepts)
+Financial Optimization
+Machine Learning Gradient Descent
+Neural Network Backpropagation Visualization
+Computer Graphics Curve Modeling
+Medical Growth Analysis
+========================================================================================================
+========================================================================================================
+# DSA
+========================================================================================================
+========================================================================================================
+# Beginner DSA Projects (1–15)
+========================================================================================================
+Array Operations
+String Manipulation Toolkit
+Searching (Linear & Binary Search)
+Sorting Visualizer (Bubble, Selection, Insertion)
+Stack Implementation
+Queue Implementation
+Circular Queue
+Deque Implementation
+Linked List (Singly)
+Doubly Linked List
+Circular Linked List
+Parentheses Checker (Stack)
+Expression Evaluator
+Browser History Simulator (Stack)
+Music Playlist Manager (Linked List)
+========================================================================================================
+# Intermediate DSA Projects (16–30)
+========================================================================================================
+Binary Search Tree (BST)
+AVL Tree
+Heap (Min & Max)
+Priority Queue
+Hash Table
+Hash Map Dictionary
+Trie (Dictionary Search)
+Graph Representation
+BFS & DFS Visualizer
+Maze Solver
+Shortest Path (Dijkstra)
+Minimum Spanning Tree (Prim/Kruskal)
+Topological Sort
+LRU Cache
+Undo/Redo System
+========================================================================================================
+# Advanced DSA Projects (31–45)
+========================================================================================================
+Red-Black Tree
+Segment Tree
+Fenwick Tree (Binary Indexed Tree)
+Disjoint Set Union (Union-Find)
+Suffix Array
+Suffix Tree
+B-Tree
+Bloom Filter
+Skip List
+A* Pathfinding Algorithm
+Huffman Coding
+KMP Pattern Matching
+Rabin–Karp String Search
+Boyer–Moore Algorithm
+Graph Algorithms Toolkit
+========================================================================================================
+# Real-World Projects (46–60)
+========================================================================================================
+Contact Book
+Student Management System
+Library Management System
+Hospital Management System
+File System Simulator
+Text Editor
+Search Engine Prototype
+Social Network Graph
+GPS Route Planner
+Spell Checker (Trie)
+File Compression Tool (Huffman)
+Autocomplete System
+Recommendation Engine
+Job Scheduler
+Mini Database Engine
+========================================================================================================
+========================================================================================================
+# Scikit-learn
+========================================================================================================
+========================================================================================================
+# Beginner Projects (1–15)
+========================================================================================================
+Iris Flower Classification
+Titanic Survival Prediction
+House Price Prediction
+Student Score Prediction
+Salary Prediction
+Wine Quality Classification
+Diabetes Prediction
+Breast Cancer Detection
+Handwritten Digit Recognition
+Customer Purchase Prediction
+Loan Approval Prediction
+Employee Salary Classification
+Spam Email Detection
+Heart Disease Prediction
+Customer Churn Prediction
+========================================================================================================
+# Intermediate Projects (16–30)
+========================================================================================================
+Movie Recommendation System
+Credit Card Fraud Detection
+Customer Segmentation (K-Means)
+Mall Customer Clustering
+Sales Forecasting
+Stock Trend Prediction
+Energy Consumption Prediction
+Traffic Flow Prediction
+Weather Prediction
+Telecom Customer Analysis
+Employee Attrition Prediction
+Product Demand Forecasting
+Insurance Claim Prediction
+Medical Diagnosis Support
+House Price Dashboard
+========================================================================================================
+# Advanced Projects (31–45)
+========================================================================================================
+End-to-End Machine Learning Pipeline
+Hyperparameter Tuning Dashboard
+Feature Selection Tool
+Model Comparison Framework
+Ensemble Learning (Random Forest, Gradient Boosting)
+Stacking & Voting Classifiers
+Anomaly Detection System
+Fraud Detection Pipeline
+Customer Lifetime Value Prediction
+Predictive Maintenance
+Time Series Feature Engineering
+Explainable AI (SHAP/LIME)
+AutoML Experiment
+ML Model API (Flask/FastAPI)
+ML Model Deployment
+========================================================================================================
+# Real-World Projects (46–60)
+========================================================================================================
+Fake News Detection
+Sentiment Analysis
+Disease Risk Prediction
+Crop Yield Prediction
+Smart Agriculture Prediction
+E-commerce Recommendation
+Bank Loan Risk Assessment
+Traffic Accident Prediction
+Retail Sales Prediction
+Manufacturing Defect Detection
+Student Performance Dashboard
+Employee Performance Analytics
+Hospital Readmission Prediction
+Air Quality Prediction
+Earthquake Damage Prediction
+========================================================================================================
+========================================================================================================
+# Regression
+========================================================================================================
+========================================================================================================
+# Beginner Regression Projects (1–10)
+========================================================================================================
+Student Marks Prediction
+House Price Prediction
+Salary Prediction
+Car Price Prediction
+Ice Cream Sales Prediction
+Exam Score Prediction
+Fuel Consumption Prediction
+Advertising Sales Prediction
+Temperature Prediction
+Electricity Bill Prediction
+========================================================================================================
+# Intermediate Regression Projects (11–20)
+========================================================================================================
+Medical Insurance Cost Prediction
+Used Car Price Prediction
+Employee Salary Estimation
+Apartment Rent Prediction
+Stock Price Trend Prediction
+Weather Temperature Forecast
+Energy Consumption Prediction
+Product Demand Forecasting
+Crop Yield Prediction
+Air Quality Prediction
+========================================================================================================
+# Advanced Regression Projects (21–30)
+========================================================================================================
+Real Estate Price Prediction
+Taxi Fare Prediction
+Bike Sharing Demand Prediction
+Sales Forecasting System
+Electricity Load Forecasting
+Customer Lifetime Value Prediction
+Time Series Regression
+Multi-output Regression
+End-to-End Regression Pipeline
+Regression Web Application (Flask/FastAPI)
+========================================================================================================
+========================================================================================================
+# Classification
+========================================================================================================
+========================================================================================================
+# Beginner Classification Projects (1–10)
+========================================================================================================
+Iris Flower Classification
+Titanic Survival Prediction
+Breast Cancer Detection
+Diabetes Prediction
+Heart Disease Prediction
+Wine Quality Classification
+Handwritten Digit Recognition (MNIST)
+Mushroom Classification (Edible/Poisonous)
+Student Pass/Fail Prediction
+Loan Approval Prediction
+========================================================================================================
+========================================================================================================
+# Intermediate Classification Projects (11–20)
+========================================================================================================
+Spam Email Detection
+Fake News Detection
+Customer Churn Prediction
+Credit Card Fraud Detection
+Employee Attrition Prediction
+Customer Purchase Prediction
+Telecom Customer Classification
+Sentiment Analysis
+Disease Diagnosis System
+Bank Marketing Prediction
+========================================================================================================
+# Advanced Classification Projects (21–30)
+========================================================================================================
+Face Mask Detection
+Traffic Sign Classification
+Plant Disease Classification
+Skin Cancer Classification
+Product Category Classification
+Network Intrusion Detection
+Document Classification
+Image Classification (Custom Dataset)
+Multi-Class Classification Pipeline
+End-to-End Classification Web App
+========================================================================================================
+========================================================================================================
