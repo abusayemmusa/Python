@@ -1623,3 +1623,94 @@ Disease Diagnosis Assistant
 Image Classification Application
 Network Intrusion Detection System
 ========================================================================================================
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# Clustering
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+========================================================================================================
+# Beginner Clustering Projects (1–10)
+========================================================================================================
+Iris Dataset Clustering
+Mall Customer Segmentation
+Student Performance Grouping
+Employee Salary Grouping
+Sales Data Clustering
+Customer Age Group Analysis
+Housing Area Clustering
+Wine Dataset Clustering
+Population Density Clustering
+Product Category Grouping
+========================================================================================================
+# Intermediate Clustering Projects (11–20)
+========================================================================================================
+Customer Segmentation for Marketing
+E-commerce Customer Analysis
+Bank Customer Segmentation
+Movie Recommendation Clustering
+Music Genre Clustering
+News Article Clustering
+Document Clustering
+Image Color Quantization (K-Means)
+Network Traffic Clustering
+Retail Store Analysis
+========================================================================================================
+# Advanced Clustering Projects (21–30)
+========================================================================================================
+Image Segmentation
+Face Image Clustering
+Gene Expression Clustering
+Fraud Detection (Anomaly Detection)
+Social Network Community Detection
+Satellite Image Segmentation
+GPS Location Clustering
+Customer Behavior Analytics Dashboard
+Recommendation System using Clustering
+End-to-End Customer Segmentation Pipeline
+========================================================================================================
+# Clustering Algorithms You'll Learn
+========================================================================================================
+K-Means
+Mini-Batch K-Means
+Hierarchical Clustering
+DBSCAN
+OPTICS
+Mean Shift
+Gaussian Mixture Models (GMM)
+Spectral Clustering
+Birch
+Affinity Propagation
+========================================================================================================
+# Skills You'll Practice
+========================================================================================================
+Data Cleaning
+Feature Scaling
+Dimensionality Reduction (PCA)
+Choosing the Number of Clusters
+Elbow Method
+Silhouette Score
+Cluster Visualization
+Model Evaluation
+Pipeline Building
+========================================================================================================
+# Recommended Learning Order
+========================================================================================================
+Iris Dataset Clustering
+Mall Customer Segmentation
+Sales Data Clustering
+Customer Segmentation
+Bank Customer Segmentation
+Image Color Quantization
+Image Segmentation
+DBSCAN for Anomaly Detection
+GPS Location Clustering
+End-to-End Customer Segmentation Pipeline
+========================================================================================================
+# Final Capstone Projects
+========================================================================================================
+Customer Segmentation System
+Retail Sales Analysis Dashboard
+Image Segmentation Tool
+News Article Clustering System
+GPS Location Clustering Application
+Marketing Analytics Platform
+========================================================================================================
+========================================================================================================
