@@ -977,6 +977,19 @@ Monte Carlo Simulation
 Markov Chains
 Bayesian Inference
 ========================================================================================================
+# Recommended Learning Order
+========================================================================================================
+Coin Toss Simulator
+Dice Roll Simulator
+Card Deck Simulator
+Probability Calculator
+Birthday Problem Simulation
+Binomial Distribution
+Normal Distribution
+Bayes' Theorem Calculator
+Monte Carlo π Estimation
+Markov Chain Simulation
+========================================================================================================
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 # Linear Algebra
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
@@ -1051,6 +1064,30 @@ Satellite Orbit Calculations
 Medical Image Processing
 Recommendation Engine
 Machine Learning Data Preprocessing
+========================================================================================================
+# Linear Algebra Topics You'll Practice
+========================================================================================================
+Vectors
+Matrices
+Matrix Multiplication
+Determinants
+Inverse Matrices
+Systems of Linear Equations
+Rank
+Eigenvalues & Eigenvectors
+Vector Projection
+Orthogonality
+LU, QR, and SVD Decomposition
+PCA
+Linear Transformations
+========================================================================================================
+Python Libraries
+========================================================================================================
+NumPy – Matrix ও Vector Operations
+SciPy – Linear Algebra Algorithms
+SymPy – Symbolic Mathematics
+Matplotlib – Visualization
+========================================================================================================
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 Calculus
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
@@ -1125,6 +1162,48 @@ Machine Learning Gradient Descent
 Neural Network Backpropagation Visualization
 Computer Graphics Curve Modeling
 Medical Growth Analysis
+========================================================================================================
+# Python Libraries
+========================================================================================================
+SymPy – Symbolic Calculus
+NumPy – Numerical Computation
+SciPy – Numerical Methods & ODE Solvers
+Matplotlib – Graph Plotting
+Plotly – Interactive Graphs
+========================================================================================================
+# Calculus Topics You'll Practice
+========================================================================================================
+Limits
+Continuity
+Differentiation
+Applications of Derivatives
+Integration
+Applications of Integration
+Numerical Differentiation
+Numerical Integration
+Taylor & Maclaurin Series
+Ordinary Differential Equations (ODEs)
+Partial Derivatives
+Multiple Integrals
+Vector Calculus
+Optimization
+Gradient Descent
+========================================================================================================
+# Recommended Learning Order
+========================================================================================================
+Function Plotter
+Limit Calculator
+Derivative Calculator
+Tangent Line Visualizer
+Integration Calculator
+Area Under Curve
+Riemann Sum Visualizer
+Newton-Raphson Root Finder
+Taylor Series Visualizer
+Differential Equation Solver
+Gradient Descent Optimizer
+Rocket Trajectory Simulation
+========================================================================================================
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 # DSA
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
