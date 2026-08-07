@@ -299,3 +299,155 @@ Smart Agriculture AI
 Autonomous Robot Vision
 End-to-End Deep Learning Platform
 ========================================================================================================
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# Convolutional Neural Networks (CNN)
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+========================================================================================================
+# Beginner CNN Projects (1–15)
+========================================================================================================
+MNIST Digit Classification
+Fashion MNIST Classification
+CIFAR-10 Image Classification
+Cats vs Dogs Classification
+Flower Species Classification
+Fruit Classification
+Handwritten Character Recognition
+Face Mask Detection
+Rock–Paper–Scissors Classification
+Traffic Sign Recognition
+Animal Classification
+Food Image Classification
+Waste Classification (Recycle/Organic)
+Bird Species Classification
+Emotion Recognition (Facial Images)
+========================================================================================================
+# Intermediate CNN Projects (16–30)
+========================================================================================================
+Plant Disease Detection
+Skin Cancer Classification
+Pneumonia Detection (Chest X-ray)
+Brain Tumor Classification
+Leaf Disease Detection
+Vehicle Classification
+License Plate Character Recognition
+Face Recognition
+Face Verification
+OCR (Optical Character Recognition)
+Satellite Image Classification
+Defect Detection in Manufacturing
+Building Damage Assessment
+Hand Gesture Recognition
+Sign Language Recognition
+========================================================================================================
+# Advanced CNN Projects (31–45)
+========================================================================================================
+Object Detection (YOLO)
+Faster R-CNN
+SSD Object Detection
+Image Segmentation (U-Net)
+Mask R-CNN
+Semantic Segmentation
+Instance Segmentation
+Image Captioning (CNN + LSTM)
+Neural Style Transfer
+Super Resolution (SRCNN)
+Image Denoising Autoencoder
+Face Anti-Spoofing
+DeepFake Detection
+Medical Image Segmentation
+Multi-Label Image Classification
+========================================================================================================
+# Real-World CNN Projects (46–60)
+========================================================================================================
+Smart Attendance System
+Autonomous Vehicle Vision
+AI Surveillance System
+Retail Product Recognition
+Smart Agriculture Disease Detection
+Industrial Quality Inspection
+Wildlife Species Recognition
+Smart Parking Detection
+Road Crack Detection
+Drone Image Analysis
+Medical Diagnosis Assistant
+Fire & Smoke Detection
+Garbage Detection System
+E-commerce Visual Search
+Face-Based Access Control
+========================================================================================================
+========================================================================================================
+# CNN Topics You'll Learn
+========================================================================================================
+========================================================================================================
+Fundamentals
+========================================================================================================
+Convolution Layer
+Filters (Kernels)
+Feature Maps
+Padding
+Stride
+Pooling (Max/Average)
+========================================================================================================
+# CNN Architectures
+========================================================================================================
+LeNet
+AlexNet
+VGG
+GoogLeNet (Inception)
+ResNet
+DenseNet
+MobileNet
+EfficientNet
+Xception
+========================================================================================================
+# Computer Vision Tasks
+========================================================================================================
+Image Classification
+Object Detection
+Image Segmentation
+Face Recognition
+OCR
+========================================================================================================
+# Training Techniques
+========================================================================================================
+Data Augmentation
+Transfer Learning
+Fine-Tuning
+Batch Normalization
+Dropout
+Early Stopping
+========================================================================================================
+# Frameworks
+========================================================================================================
+TensorFlow/Keras
+PyTorch
+OpenCV
+========================================================================================================
+# Recommended Learning Order
+========================================================================================================
+MNIST Digit Classification
+Fashion MNIST
+CIFAR-10
+Cats vs Dogs
+Face Mask Detection
+Plant Disease Detection
+Traffic Sign Recognition
+Transfer Learning (MobileNet/ResNet)
+Object Detection (YOLO)
+Image Segmentation (U-Net)
+Face Recognition
+Medical Image Analysis
+========================================================================================================
+# Final Capstone Projects
+========================================================================================================
+Face Recognition Attendance System
+Plant Disease Detection App
+Medical X-ray Diagnosis AI
+Autonomous Vehicle Vision System
+Smart Traffic Sign Recognition
+Industrial Defect Detection
+AI Surveillance System
+Fire & Smoke Detection
+Image Search Engine
+End-to-End Computer Vision Application
+========================================================================================================
