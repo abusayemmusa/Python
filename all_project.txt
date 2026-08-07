@@ -1574,4 +1574,52 @@ Image Classification (Custom Dataset)
 Multi-Class Classification Pipeline
 End-to-End Classification Web App
 ========================================================================================================
+# Classification Algorithms You'll Learn
+========================================================================================================
+Logistic Regression
+K-Nearest Neighbors (KNN)
+Naive Bayes
+Decision Tree
+Random Forest
+Support Vector Machine (SVM)
+Gradient Boosting
+AdaBoost
+XGBoost
+LightGBM (Advanced)
+========================================================================================================
+# Skills You'll Practice
+========================================================================================================
+Data Preprocessing
+Feature Engineering
+Train/Test Split
+Handling Imbalanced Data
+Model Training
+Prediction
+Confusion Matrix
+Accuracy, Precision, Recall, F1-score
+ROC-AUC
+Cross Validation
+Hyperparameter Tuning
+========================================================================================================
+# Recommended Learning Order
+========================================================================================================
+Iris Flower Classification
+Student Pass/Fail Prediction
+Titanic Survival Prediction
+Breast Cancer Detection
+Spam Email Detection
+Customer Churn Prediction
+Credit Card Fraud Detection
+Traffic Sign Classification
+Random Forest Classification
+End-to-End Classification Pipeline
+========================================================================================================
+# Final Capstone Projects
+========================================================================================================
+Spam Email Detection System
+Customer Churn Prediction Platform
+Credit Card Fraud Detection System
+Disease Diagnosis Assistant
+Image Classification Application
+Network Intrusion Detection System
 ========================================================================================================
