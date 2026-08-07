@@ -451,3 +451,322 @@ Fire & Smoke Detection
 Image Search Engine
 End-to-End Computer Vision Application
 ========================================================================================================
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# Recurrent Neural Networks (RNN)
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+========================================================================================================
+# Beginner RNN Projects (1–15)
+========================================================================================================
+Time Series Prediction
+Stock Price Prediction
+Temperature Forecasting
+Weather Prediction
+Electricity Consumption Prediction
+Sales Forecasting
+Student Performance Prediction
+Character-Level Text Generation
+Word Prediction
+Next Word Prediction
+Movie Review Sentiment Analysis
+Spam SMS Classification
+News Category Classification
+Language Identification
+Music Note Prediction
+========================================================================================================
+# Intermediate RNN Projects (16–30)
+========================================================================================================
+LSTM Stock Prediction
+GRU Time Series Forecasting
+Chatbot Intent Classification
+Machine Translation
+Text Summarization
+Question Answering
+Named Entity Recognition (NER)
+Part-of-Speech Tagging
+Speech Emotion Recognition
+Speech-to-Text
+Text-to-Speech
+Human Activity Recognition
+ECG Signal Classification
+Heart Rate Prediction
+Predictive Maintenance
+========================================================================================================
+# Advanced RNN Projects (31–45)
+========================================================================================================
+Image Caption Generator (CNN + LSTM)
+Video Action Recognition
+Sign Language Recognition
+Handwriting Recognition
+Speech Recognition System
+Neural Machine Translation
+Conversational AI
+Music Generation
+Poetry Generation
+Code Auto-Completion
+Financial Time Series Forecasting
+DNA Sequence Classification
+Protein Sequence Analysis
+Traffic Flow Prediction
+IoT Sensor Data Prediction
+========================================================================================================
+# Real-World RNN Projects (46–60)
+========================================================================================================
+AI Chatbot
+Voice Assistant
+Financial Forecasting System
+Smart Energy Prediction
+Hospital Patient Monitoring
+Crop Yield Forecasting
+Weather Forecast System
+Social Media Sentiment Monitoring
+Fake News Detection
+Email Auto-Reply Generator
+Customer Support Automation
+Smart Keyboard Prediction
+Music Recommendation System
+Personalized Learning Assistant
+End-to-End NLP Application
+========================================================================================================
+========================================================================================================
+# RNN Topics You'll Learn
+========================================================================================================
+========================================================================================================
+# Fundamentals
+========================================================================================================
+Simple RNN
+Sequence Data
+Hidden State
+Forward Pass
+Backpropagation Through Time (BPTT)
+========================================================================================================
+# Advanced Architectures
+========================================================================================================
+LSTM (Long Short-Term Memory)
+GRU (Gated Recurrent Unit)
+Bidirectional RNN
+Stacked RNN
+========================================================================================================
+# NLP Applications
+========================================================================================================
+Sentiment Analysis
+Text Classification
+Text Generation
+Machine Translation
+Named Entity Recognition
+Question Answering
+========================================================================================================
+# Time Series Applications
+========================================================================================================
+Forecasting
+Anomaly Detection
+Signal Processing
+========================================================================================================
+# Frameworks
+========================================================================================================
+TensorFlow/Keras
+PyTorch
+========================================================================================================
+# Recommended Learning Order
+========================================================================================================
+Time Series Prediction
+Stock Price Prediction
+Character-Level Text Generation
+Sentiment Analysis
+LSTM Time Series
+GRU Forecasting
+Chatbot Intent Classification
+Machine Translation
+Speech Recognition
+Image Caption Generator
+========================================================================================================
+# Final Capstone Projects
+========================================================================================================
+Stock Market Prediction System
+AI Chatbot
+Voice Assistant
+Machine Translation System
+Speech-to-Text Application
+Smart Keyboard Prediction
+Weather Forecasting Platform
+Music Generation AI
+Financial Forecasting Dashboard
+End-to-End NLP System
+========================================================================================================
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# Transformers
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+========================================================================================================
+# Beginner Projects (1–15)
+========================================================================================================
+Sentiment Analysis
+Text Classification
+Spam Email Detection
+News Category Classification
+Language Detection
+Movie Review Classification
+Question Classification
+Named Entity Recognition (NER)
+Part-of-Speech Tagging
+Text Summarization
+Grammar Correction
+Text Similarity Detection
+Question Answering
+Fill-in-the-Blank Prediction
+Text Generation
+========================================================================================================
+# Intermediate Projects (16–30)
+========================================================================================================
+Chatbot using Transformer
+Machine Translation
+Document Summarization
+Fake News Detection
+Resume Classification
+Email Classification
+Intent Classification
+Customer Support Assistant
+OCR Text Understanding
+Speech-to-Text Post-processing
+Code Generation
+Code Summarization
+Search Engine Ranking
+Semantic Search
+FAQ Answering System
+========================================================================================================
+# Advanced Projects (31–45)
+========================================================================================================
+Fine-Tune BERT
+Fine-Tune RoBERTa
+Fine-Tune DistilBERT
+Fine-Tune T5
+Fine-Tune GPT
+Fine-Tune Llama
+Retrieval-Augmented Generation (RAG)
+Vector Search with Embeddings
+AI Agent
+Document Question Answering
+Multi-Document Chatbot
+Long-Context Processing
+Multimodal Transformer
+Vision Transformer (ViT)
+Image Caption Generator
+========================================================================================================
+Real-World Projects (46–60)
+========================================================================================================
+AI Customer Support Bot
+Legal Document Assistant
+Medical Question Answering
+Research Paper Summarizer
+AI Tutor
+Resume Screening System
+AI Coding Assistant
+Smart Email Assistant
+Meeting Notes Summarizer
+Personal Knowledge Base (RAG)
+Financial Report Analyzer
+Contract Analysis Assistant
+Multilingual Translator
+Enterprise Search Engine
+End-to-End Generative AI Assistant
+========================================================================================================
+========================================================================================================
+# Transformer Topics You'll Learn
+========================================================================================================
+========================================================================================================
+# Fundamentals
+========================================================================================================
+Self-Attention
+Multi-Head Attention
+Positional Encoding
+Encoder
+Decoder
+Feed Forward Network
+Layer Normalization
+Residual Connections
+========================================================================================================
+# Popular Models
+========================================================================================================
+BERT
+RoBERTa
+DistilBERT
+GPT
+T5
+BART
+Llama
+Mistral
+Gemma
+Vision Transformer (ViT)
+========================================================================================================
+# NLP Tasks
+========================================================================================================
+Text Classification
+Sentiment Analysis
+Translation
+Summarization
+Question Answering
+Named Entity Recognition
+Text Generation
+========================================================================================================
+# LLM & Generative AI
+========================================================================================================
+Prompt Engineering
+Embeddings
+Vector Databases
+RAG (Retrieval-Augmented Generation)
+Function Calling
+AI Agents
+Fine-Tuning
+PEFT / LoRA (Parameter-Efficient Fine-Tuning)
+========================================================================================================
+# Frameworks
+========================================================================================================
+Hugging Face Transformers
+PyTorch
+TensorFlow
+LangChain
+LlamaIndex
+========================================================================================================
+# Recommended Learning Order
+========================================================================================================
+Sentiment Analysis
+Spam Email Detection
+Text Summarization
+Question Answering
+Machine Translation
+Fine-Tune BERT
+Semantic Search
+RAG Chatbot
+AI Agent
+Vision Transformer (ViT)
+Multimodal AI
+End-to-End Generative AI Assistant
+========================================================================================================
+# Final Capstone Projects
+========================================================================================================
+AI Chatbot with RAG
+AI Coding Assistant
+AI Tutor
+Research Paper Summarizer
+Resume Screening System
+Medical Question Answering System
+Enterprise Document Search
+Smart Email Assistant
+Legal Document Analyzer
+End-to-End Generative AI Platform
+========================================================================================================
+# Prerequisites for learning
+========================================================================================================
+Python
+NumPy, Pandas
+Statistics & Probability
+Linear Algebra
+Calculus
+Machine Learning (Scikit-learn)
+Neural Networks
+CNN
+RNN/LSTM/GRU
+Transformers
+Large Language Models (LLMs)
+RAG
+AI Agents
+MLOps ও Deployment
+========================================================================================================
