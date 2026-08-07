@@ -1,0 +1,123 @@
+# Beginner TensorFlow Projects (1–15)
+Hello TensorFlow
+Handwritten Digit Recognition (MNIST)
+Fashion MNIST Classification
+Cats vs Dogs Image Classification
+CIFAR-10 Image Classification
+Flower Classification
+House Price Prediction
+Student Score Prediction
+Spam Email Classification
+Sentiment Analysis (Basic)
+IMDB Movie Review Classification
+Iris Flower Classification
+Customer Churn Prediction
+Bank Loan Prediction
+Simple Regression Model
+Intermediate TensorFlow Projects (16–30)
+Transfer Learning (MobileNet)
+Transfer Learning (ResNet)
+Face Mask Detection
+Face Recognition
+Object Detection
+Image Segmentation
+Traffic Sign Recognition
+Plant Disease Detection
+Skin Cancer Detection
+OCR (Optical Character Recognition)
+Text Classification
+News Classification
+Machine Translation (Basic)
+Text Generation (LSTM)
+Time Series Forecasting
+Advanced TensorFlow Projects (31–45)
+YOLO Object Detection Integration
+GAN (Image Generation)
+DCGAN Face Generator
+Variational Autoencoder (VAE)
+Image Super Resolution
+Neural Style Transfer
+Speech Recognition
+Speaker Identification
+Transformer Model
+BERT Fine-Tuning
+Image Caption Generator
+Sign Language Recognition
+Medical Image Analysis
+Multi-Modal AI Model
+End-to-End Deep Learning Pipeline
+Real-World Projects (46–60)
+Autonomous Vehicle Object Detection
+Smart Attendance System
+AI Surveillance System
+Medical Diagnosis Assistant
+Smart Agriculture Disease Detection
+Retail Product Recognition
+Face Attendance System
+AI Chatbot Backend
+Recommendation System
+Video Action Recognition
+Defect Detection in Manufacturing
+Drone Vision System
+Wildlife Species Identification
+Document Understanding AI
+AI-Powered Search System
+TensorFlow Topics You'll Learn
+Fundamentals
+Tensor
+Tensor Operations
+TensorFlow Datasets
+tf.data
+tf.keras
+Deep Learning
+Artificial Neural Networks (ANN)
+Convolutional Neural Networks (CNN)
+Recurrent Neural Networks (RNN)
+LSTM
+GRU
+Transformers
+Computer Vision
+Image Classification
+Object Detection
+Image Segmentation
+Transfer Learning
+Natural Language Processing
+Text Classification
+Sentiment Analysis
+Text Generation
+Translation
+BERT
+Model Training
+Loss Functions
+Optimizers
+Callbacks
+Model Checkpointing
+Early Stopping
+Deployment
+TensorFlow Lite
+TensorFlow Serving
+TensorFlow.js
+SavedModel
+ONNX (interoperability)
+Recommended Learning Order
+MNIST Digit Recognition
+Fashion MNIST
+House Price Prediction
+Cats vs Dogs Classification
+Transfer Learning
+Face Mask Detection
+OCR
+Time Series Forecasting
+GAN
+Transformer
+BERT Fine-Tuning
+End-to-End Deep Learning Pipeline
+Final Capstone Projects
+Face Recognition Attendance System
+Medical Image Diagnosis AI
+Plant Disease Detection App
+Smart Traffic Sign Recognition
+AI Chatbot
+Object Detection for Autonomous Robots
+Image Caption Generator
+End-to-End Deep Learning Web Application
