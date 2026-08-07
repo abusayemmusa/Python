@@ -618,3 +618,160 @@ Manufacturing Quality Control
 Website Traffic Statistics
 Social Media Engagement Analysis
 ========================================================================================================
+========================================================================================================
+# Probability
+========================================================================================================
+========================================================================================================
+# Beginner Probability Projects (1–15)
+========================================================================================================
+Coin Toss Simulator
+Dice Roll Simulator
+Two Dice Probability
+Card Deck Simulator
+Random Number Generator
+Lottery Number Generator
+Birthday Problem Simulation
+Probability Calculator
+Event Probability Calculator
+Conditional Probability Calculator
+Tree Diagram Probability
+Venn Diagram Probability
+Spinner Probability Simulator
+Marble Bag Probability
+Random Sampling Simulator
+========================================================================================================
+# Intermediate Probability Projects (16–30)
+========================================================================================================
+Binomial Distribution Simulator
+Geometric Distribution
+Poisson Distribution
+Normal Distribution
+Uniform Distribution
+Exponential Distribution
+Hypergeometric Distribution
+Monte Carlo π Estimation
+Random Walk Simulation
+Gambler's Ruin Simulation
+Queue Simulation
+Markov Chain Basics
+Bayes' Theorem Calculator
+Conditional Probability Dashboard
+A/B Testing Probability
+========================================================================================================
+# Advanced Probability Projects (31–45)
+========================================================================================================
+Bayesian Inference
+Naive Bayes Classifier (from Scratch)
+Hidden Markov Model (HMM)
+Markov Chain Text Generator
+Monte Carlo Integration
+Reliability Analysis
+Risk Analysis Simulation
+Insurance Claim Probability
+Stock Price Simulation
+Genetic Algorithm (Probability-based)
+MCMC (Markov Chain Monte Carlo)
+Weather Prediction using Markov Models
+Disease Spread Simulation
+Traffic Flow Simulation
+Financial Risk Modeling
+========================================================================================================
+# Real-World Probability Projects (46–60)
+========================================================================================================
+Weather Forecast Probability
+Cricket Win Probability
+Football Match Prediction
+Lottery Odds Calculator
+Poker Probability Analyzer
+Blackjack Odds Calculator
+Recommendation Probability Model
+Fraud Detection Probability
+Email Spam Probability
+Medical Diagnosis (Bayes)
+Customer Purchase Prediction
+Manufacturing Defect Probability
+Website Click Probability
+Election Poll Probability
+Earthquake Probability Analysis
+========================================================================================================
+========================================================================================================
+# Linear Algebra
+========================================================================================================
+========================================================================================================
+# Beginner Projects (1–15)
+========================================================================================================
+Vector Calculator
+Vector Addition & Subtraction
+Scalar Multiplication
+Dot Product Calculator
+Cross Product Calculator
+Vector Magnitude Calculator
+Unit Vector Calculator
+Distance Between Two Vectors
+Angle Between Two Vectors
+Matrix Addition
+Matrix Subtraction
+Matrix Multiplication
+Matrix Transpose
+Identity Matrix Generator
+Zero Matrix Generator
+========================================================================================================
+# Intermediate Projects (16–30)
+========================================================================================================
+Matrix Determinant Calculator
+Matrix Inverse Calculator
+Matrix Rank Calculator
+Gaussian Elimination Solver
+LU Decomposition
+QR Decomposition
+Linear Equation Solver (Ax = b)
+Eigenvalue Calculator
+Eigenvector Calculator
+Vector Projection
+Orthogonal Vector Checker
+Gram–Schmidt Orthogonalization
+Matrix Norm Calculator
+Singular Matrix Checker
+Rotation Matrix Visualizer
+========================================================================================================
+# Advanced Projects (31–45)
+========================================================================================================
+Principal Component Analysis (PCA)
+Singular Value Decomposition (SVD)
+Linear Regression (Normal Equation)
+Image Compression using SVD
+Face Recognition (Eigenfaces)
+2D Transformation Simulator
+3D Transformation Simulator
+Computer Graphics Transformation
+Kalman Filter Basics
+PageRank Algorithm
+Recommendation System (Matrix Factorization)
+Robotics Transformation Matrices
+3D Camera Projection
+Finite Element Matrix Solver
+Neural Network Matrix Operations (NumPy)
+========================================================================================================
+# Real-World Projects (46–60)
+========================================================================================================
+Image Rotation & Scaling
+Robot Arm Kinematics
+GPS Coordinate Transformation
+Financial Portfolio Optimization
+Google PageRank Simulation
+Network Graph Analysis
+Signal Processing with Matrices
+Image Filtering
+3D Game Transformations
+Physics Simulation
+Autonomous Vehicle Coordinate System
+Satellite Orbit Calculations
+Medical Image Processing
+Recommendation Engine
+Machine Learning Data Preprocessing
+========================================================================================================
+========================================================================================================
+
+========================================================================================================
+========================================================================================================
+
