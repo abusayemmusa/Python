@@ -466,3 +466,79 @@ FIFA Player Statistics
 World Population Trends
 Climate Change Visualization
 ========================================================================================================
+========================================================================================================
+# seaborn project
+========================================================================================================
+========================================================================================================
+# Beginner Projects (1–15)
+========================================================================================================
+Line Plot
+Scatter Plot
+Bar Plot
+Count Plot
+Histogram (histplot)
+KDE Plot
+Box Plot
+Violin Plot
+Strip Plot
+Swarm Plot
+Rug Plot
+ECDF Plot
+Pair Plot
+Joint Plot
+Heatmap
+========================================================================================================
+# Intermediate Projects (16–30)
+========================================================================================================
+Student Performance Analysis
+Sales Data Visualization
+Employee Salary Analysis
+Customer Purchase Analysis
+COVID-19 Data Visualization
+Titanic Dataset Analysis
+Iris Dataset Analysis
+Tips Dataset Analysis
+Penguin Dataset Analysis
+Flight Data Heatmap
+Stock Market Visualization
+Weather Data Analysis
+House Price Visualization
+Cricket Statistics Dashboard
+Olympic Data Analysis
+========================================================================================================
+# Advanced Projects (31–45)
+========================================================================================================
+Correlation Analysis Dashboard
+Feature Distribution Analysis
+Outlier Detection Dashboard
+Customer Segmentation Visualization
+Fraud Detection Visualization
+Business Intelligence Dashboard
+Financial Data Dashboard
+Time Series Visualization
+Machine Learning Feature Analysis
+Model Performance Visualization
+Hyperparameter Comparison Charts
+Confusion Matrix Heatmap
+Classification Results Visualization
+Regression Analysis Dashboard
+Multi-Dataset Dashboard
+========================================================================================================
+# Real-World Projects (46–60)
+========================================================================================================
+Netflix Movies Analysis
+Spotify Songs Analysis
+FIFA Player Statistics
+Amazon Sales Dashboard
+YouTube Trending Analysis
+Uber Trip Analysis
+Airbnb Data Analysis
+Global Population Analysis
+Climate Change Analysis
+Earthquake Data Visualization
+E-commerce Customer Analysis
+Hospital Patient Dashboard
+Bank Customer Analysis
+Telecom Customer Churn Analysis
+Retail Sales Dashboard
+========================================================================================================
