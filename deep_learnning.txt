@@ -57,6 +57,7 @@ Multi-Modal AI Model
 End-to-End Deep Learning Pipeline
 ========================================================================================================
 # Real-World Projects (46–60)
+========================================================================================================
 Autonomous Vehicle Object Detection
 Smart Attendance System
 AI Surveillance System
@@ -188,7 +189,9 @@ Customer Lifetime Value Prediction
 Employee Attrition Prediction
 Medical Diagnosis
 Recommendation System
-Advanced Projects (31–45)
+========================================================================================================
+# Advanced Projects (31–45)
+========================================================================================================
 Convolutional Neural Network (CNN)
 Recurrent Neural Network (RNN)
 Long Short-Term Memory (LSTM)
@@ -204,7 +207,9 @@ Speech Recognition
 Machine Translation
 Object Detection
 Image Segmentation
-Real-World Projects (46–60)
+========================================================================================================
+# Real-World Projects (46–60)
+========================================================================================================
 Face Recognition System
 Plant Disease Detection
 AI Medical Diagnosis
@@ -220,8 +225,13 @@ Drone Vision
 Wildlife Classification
 Fake News Detection
 End-to-End AI Assistant
-Neural Network Topics You'll Learn
-Fundamentals
+========================================================================================================
+========================================================================================================
+# Neural Network Topics You'll Learn
+========================================================================================================
+========================================================================================================
+# Fundamentals
+========================================================================================================
 Perceptron
 Activation Functions
 Forward Propagation
@@ -229,7 +239,9 @@ Backpropagation
 Gradient Descent
 Loss Functions
 Optimizers (SGD, Adam, RMSprop)
+========================================================================================================
 Architectures
+========================================================================================================
 ANN
 DNN
 CNN
@@ -239,20 +251,28 @@ GRU
 Autoencoder
 GAN
 Transformer
-Regularization
+========================================================================================================
+# Regularization
+========================================================================================================
 Dropout
 Batch Normalization
 Early Stopping
 L1/L2 Regularization
-Optimization
+========================================================================================================
+# Optimization
+========================================================================================================
 Learning Rate Scheduling
 Hyperparameter Tuning
 Model Checkpointing
-Frameworks
+========================================================================================================
+# Frameworks
+========================================================================================================
 TensorFlow
 Keras
 PyTorch
-Recommended Learning Order
+========================================================================================================
+# Recommended Learning Order
+========================================================================================================
 Perceptron from Scratch
 XOR Problem Solver
 House Price Prediction (ANN)
@@ -265,7 +285,9 @@ GAN (Image Generation)
 Transformer
 BERT Fine-Tuning
 End-to-End AI Assistant
-Final Capstone Projects
+========================================================================================================
+# Final Capstone Projects
+========================================================================================================
 Face Recognition Attendance System
 Medical Diagnosis AI
 AI Chatbot
@@ -276,3 +298,4 @@ Recommendation Engine
 Smart Agriculture AI
 Autonomous Robot Vision
 End-to-End Deep Learning Platform
+========================================================================================================
