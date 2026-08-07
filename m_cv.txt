@@ -550,7 +550,8 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 # Computer Vision
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 ========================================================================================================
-Beginner Computer Vision Projects
+# Beginner Computer Vision Projects
+========================================================================================================
 Image Viewer
 Image Resizer
 Image Cropper
@@ -566,7 +567,9 @@ Line & Circle Detection
 Webcam Image Processing
 Motion Detection
 Color Object Tracking
-🟡 Intermediate Projects
+========================================================================================================
+# Intermediate Projects
+========================================================================================================
 Face Detection
 Face Blur / Anonymization
 Eye Detection
@@ -582,7 +585,9 @@ Vehicle Detection
 Vehicle Counting
 License Plate Detection
 OCR System
-🔴 Advanced Computer Vision Projects
+========================================================================================================
+# Advanced Computer Vision Projects
+========================================================================================================
 Face Recognition
 Face Verification
 Hand Gesture Recognition
@@ -598,7 +603,9 @@ Vision Transformer (ViT)
 Image Captioning
 Image Super Resolution
 Neural Style Transfer
-🚀 Real-World Computer Vision Projects
+========================================================================================================
+# Real-World Computer Vision Projects
+========================================================================================================
 Autonomous Vehicle Vision
 Smart Traffic Monitoring
 Automatic Number Plate Recognition
@@ -614,8 +621,13 @@ Wildlife Detection
 Smart Surveillance
 Medical Image Analysis
 Retail Product Recognition
-📚 Computer Vision-এর প্রধান Topics
-1. Image Processing
+========================================================================================================
+========================================================================================================
+# Key topics in Computer Vision
+========================================================================================================
+========================================================================================================
+# Image Processing
+========================================================================================================
 Pixels
 RGB / HSV
 Grayscale
@@ -625,14 +637,18 @@ Thresholding
 Morphological Operations
 Edge Detection
 Contours
-2. Feature Detection
+========================================================================================================
+# Feature Detection
+========================================================================================================
 Corners
 Edges
 SIFT
 SURF
 ORB
 Feature Matching
-3. Object Detection
+========================================================================================================
+# Object Detection
+========================================================================================================
 Haar Cascade
 HOG + SVM
 R-CNN
@@ -640,32 +656,42 @@ Faster R-CNN
 SSD
 YOLO
 DETR
-4. Image Segmentation
+========================================================================================================
+# Image Segmentation
+========================================================================================================
 Threshold Segmentation
 K-Means
 Watershed
 U-Net
 Mask R-CNN
-5. Human Vision
+========================================================================================================
+# Human Vision
+========================================================================================================
 Face Detection
 Face Recognition
 Hand Tracking
 Pose Estimation
 Emotion Recognition
 Action Recognition
-6. Advanced Vision
+========================================================================================================
+# Advanced Vision
+========================================================================================================
 Optical Flow
 Camera Calibration
 Stereo Vision
 3D Reconstruction
 Depth Estimation
 Visual Odometry
-7. Deep Learning
+========================================================================================================
+# Deep Learning
+========================================================================================================
 CNN
 Transfer Learning
 Vision Transformer
 Multimodal Models
-🛠️ প্রধান Libraries/Frameworks
+========================================================================================================
+# Main Libraries/Frameworks
+========================================================================================================
 OpenCV — image/video processing
 NumPy — numerical operations
 Pillow — image manipulation
@@ -675,7 +701,8 @@ TensorFlow/Keras — deep learning
 Ultralytics YOLO — object detection
 MediaPipe — face, hand, pose tracking
 ========================================================================================================
-প্রথমে এই 12টি Project করুন
+# Do these 12 projects first.
+========================================================================================================
 Image Processing Tool
 Edge & Contour Detector
 Shape Detection
@@ -689,8 +716,3 @@ OCR System
 Face Recognition
 Image Segmentation
 ========================================================================================================
-
-
-
-
-
