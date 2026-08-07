@@ -318,7 +318,8 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 # Object Detection
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 ========================================================================================================
-Beginner Object Detection Projects
+# Beginner Object Detection Projects
+========================================================================================================
 Basic Object Detector
 Face Detection
 Eye Detection
@@ -334,7 +335,9 @@ QR Code Detection
 Barcode Detection
 Multiple Object Detection
 Webcam Real-Time Object Detection
-🟡 Intermediate Projects
+========================================================================================================
+# Intermediate Projects
+========================================================================================================
 YOLO Object Detection
 YOLOv8/v11 Custom Object Detection
 Vehicle Detection
@@ -350,7 +353,9 @@ Smoke Detection
 Product Detection
 Fruit Detection
 Waste Detection
-🔴 Advanced Projects
+========================================================================================================
+# Advanced Projects
+========================================================================================================
 Custom Dataset Object Detection
 Real-Time Multi-Object Detection
 Object Tracking + Detection
@@ -366,7 +371,9 @@ Object Detection + OCR
 3D Object Detection
 Video Object Detection
 Multi-Camera Object Detection
-🚀 Real-World Projects
+========================================================================================================
+# Real-World Projects
+========================================================================================================
 Autonomous Vehicle Object Detection
 Smart Traffic Monitoring
 Road Damage Detection
@@ -383,7 +390,8 @@ Drone Object Detection
 Wildlife Detection
 AI Surveillance System
 ========================================================================================================
-যে বিষয়গুলো শিখবেন
+# You will learn these topics
+========================================================================================================
 Bounding Box
 Class Label
 Confidence Score
@@ -398,7 +406,9 @@ Dataset Annotation
 Data Augmentation
 Transfer Learning
 Model Fine-tuning
-প্রধান Algorithms/Models
+========================================================================================================
+# Main Algorithms/Models
+========================================================================================================
 Haar Cascade
 HOG + SVM
 R-CNN
@@ -409,7 +419,9 @@ RetinaNet
 YOLO
 DETR
 Grounding DINO
-🛠️ প্রধান Libraries
+========================================================================================================
+# Main Libraries
+========================================================================================================
 OpenCV
 PyTorch
 TensorFlow
@@ -418,7 +430,8 @@ NumPy
 Matplotlib
 Roboflow
 ========================================================================================================
-প্রথমে এই 10টি Project করুন
+# Do these 10 projects first
+========================================================================================================
 Face Detection
 Person Detection
 Car Detection
