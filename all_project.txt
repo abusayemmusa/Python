@@ -1,4 +1,5 @@
-Beginner Projects (1–25)
+========================================================================================================
+# Beginner Projects (1–25)
 Hello World
 Calculator
 Even/Odd Checker
@@ -24,7 +25,8 @@ To-Do List (CLI)
 Contact Book
 Student Grade System
 Expense Tracker
-Intermediate Projects (26–50)
+========================================================================================================
+# Intermediate Projects (26–50)
 File Organizer
 Notes App
 Text File Search Tool
@@ -50,7 +52,8 @@ Typing Speed Test
 URL Availability Checker
 Internet Speed Test
 Network Information Tool
-Advanced Projects (51–75)
+========================================================================================================
+# Advanced Projects (51–75)
 Multi-threaded File Downloader
 Chat Application (Sockets)
 HTTP Server
@@ -76,7 +79,8 @@ Markdown to HTML Converter
 Static Website Generator
 Mini Shell
 Mini Search Engine
-Automation Projects
+========================================================================================================
+# Automation Projects
 Folder Organizer
 Excel Automation
 PDF Automation
@@ -87,10 +91,18 @@ Mouse & Keyboard Automation
 File Backup Script
 Log Cleaner
 Data Entry Automation
-
-
-
-
+========================================================================================================
+# Data Analysis Projects
+Sales Data Analysis
+COVID-19 Data Analysis
+IPL/Football Statistics
+Stock Market Analysis
+Student Result Analysis
+Weather Data Analysis
+Customer Analysis
+Movie Rating Analysis
+Olympics Data Analysis
+Cricket Statistics Dashboard
 ========================================================================================================
 # Beginner OOP Projects
 Student Management System
