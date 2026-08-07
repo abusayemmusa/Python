@@ -1,1 +1,79 @@
-
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# SQL project
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+========================================================================================================
+# Beginner SQL Projects
+========================================================================================================
+Student Management System
+Library Management System
+Employee Management System
+Contact Management System
+Inventory Management System
+Hotel Booking System
+Hospital Management System
+Banking Database
+Movie Database
+School Database
+========================================================================================================
+# Intermediate SQL Projects
+========================================================================================================
+E-commerce Database
+Restaurant Management System
+Pharmacy Management System
+Airline Reservation System
+Railway Reservation System
+Online Examination System
+Attendance Management System
+Payroll Management System
+Warehouse Management System
+Vehicle Registration System
+========================================================================================================
+# Advanced SQL Projects
+========================================================================================================
+Social Media Database
+Learning Management System (LMS)
+Hospital ERP Database
+CRM (Customer Relationship Management)
+HR Management System
+Hotel ERP Database
+Online Shopping Database
+Banking Transaction System
+Data Warehouse
+Sales Analytics Database
+# Data Analysis Projects (SQL)
+Sales Dashboard
+Customer Segmentation
+Employee Performance Analysis
+Product Sales Analysis
+Banking Transaction Analysis
+COVID-19 Data Analysis
+IPL/Football Statistics Database
+Stock Market Database
+Movie Rating Analysis
+Retail Analytics
+========================================================================================================
+# SQL Concepts Used
+========================================================================================================
+Database Creation
+Tables
+Primary Key
+Foreign Key
+Constraints
+INSERT
+UPDATE
+DELETE
+SELECT
+WHERE
+ORDER BY
+GROUP BY
+HAVING
+Aggregate Functions (COUNT, SUM, AVG, MIN, MAX)
+JOINs (INNER, LEFT, RIGHT, FULL)
+Subqueries
+Views
+Indexes
+Stored Procedures
+Triggers
+Transactions
+Normalization
+========================================================================================================
