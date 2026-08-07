@@ -144,8 +144,173 @@ TensorFlow / Keras
 PyTorch
 Ultralytics YOLO
 ========================================================================================================
+# Complete 10 projects first.
+========================================================================================================
+Image Processing Tool
+Grayscale + Thresholding
+Edge Detection
+Shape Detection
+Face Detection
+Motion Detection
+Object Tracking
+QR/Barcode Scanner
+Document Scanner
+Face Recognition Attendance System
+========================================================================================================
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 # Image Processing
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 ========================================================================================================
-
+Beginner Image Processing Projects
+========================================================================================================
+Image Viewer
+Image Resizer
+Image Cropper
+Image Rotator
+Image Flipper
+RGB → Grayscale Converter
+Image Brightness Adjustment
+Contrast Adjustment
+Image Blur Tool
+Image Sharpening
+Image Thresholding
+Negative Image Generator
+Image Histogram Analyzer
+Color Detector
+Image Format Converter
+========================================================================================================
+# Intermediate Projects
+========================================================================================================
+Edge Detection
+Sobel Edge Detector
+Canny Edge Detector
+Contour Detection
+Shape Detection
+Circle Detection
+Line Detection
+Corner Detection
+Noise Removal
+Morphological Image Processing
+Image Segmentation
+Background Removal
+Document Scanner
+Perspective Correction
+Image Stitching
+========================================================================================================
+# Advanced Projects
+========================================================================================================
+Object Detection
+Object Tracking
+Face Detection
+Face Recognition
+OCR System
+License Plate Recognition
+Image Super Resolution
+Image Denoising
+Image Restoration
+Image Inpainting
+Image Compression
+Medical Image Segmentation
+Satellite Image Analysis
+Industrial Defect Detection
+Real-Time Image Processing System
+========================================================================================================
+# Computer Vision Projects
+========================================================================================================
+Face Attendance System
+Hand Gesture Recognition
+Finger Counter
+Human Pose Detection
+Traffic Sign Detection
+Lane Detection
+Vehicle Detection
+Vehicle Counting
+Pedestrian Detection
+Driver Drowsiness Detection
+Fire & Smoke Detection
+Road Crack Detection
+Plant Disease Detection
+Smart Surveillance
+Autonomous Vehicle Vision
+========================================================================================================
+========================================================================================================
+# Important Topics
+========================================================================================================
+========================================================================================================
+# Image Fundamentals
+========================================================================================================
+Pixels
+Resolution
+RGB
+HSV
+Grayscale
+Image Channels
+Histogram
+========================================================================================================
+# Image Enhancement
+========================================================================================================
+Brightness
+Contrast
+Histogram Equalization
+Gamma Correction
+Sharpening
+Smoothing
+========================================================================================================
+# Filtering
+========================================================================================================
+Gaussian Filter
+Median Filter
+Bilateral Filter
+Mean Filter
+Convolution
+========================================================================================================
+# Feature Detection
+========================================================================================================
+Edges
+Corners
+Contours
+Lines
+Circles
+Feature Matching
+========================================================================================================
+# Segmentation
+========================================================================================================
+Thresholding
+Adaptive Thresholding
+K-Means Segmentation
+Watershed
+Semantic Segmentation
+========================================================================================================
+# Advanced
+========================================================================================================
+Optical Flow
+Image Registration
+Camera Calibration
+Stereo Vision
+Object Detection
+Object Tracking
+OCR
+========================================================================================================
+# Main Python Libraries
+========================================================================================================
+OpenCV
+NumPy
+Pillow
+scikit-image
+SciPy
+Matplotlib
+TensorFlow / PyTorch
+========================================================================================================
+# Do these 10 things first
+========================================================================================================
+Image Viewer & Resizer
+Grayscale/HSV Converter
+Histogram Analyzer
+Image Filtering Tool
+Edge Detection
+Shape Detection
+Object Segmentation
+Document Scanner
+Face Detection
+OCR System
+========================================================================================================
