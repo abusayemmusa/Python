@@ -1970,3 +1970,4 @@ Disease Diagnosis Assistant
 Smart Agriculture Prediction System
 Resume Screening AI
 Personalized Learning Platform
+========================================================================================================
