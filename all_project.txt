@@ -269,8 +269,129 @@ Git Submodules Project
 Monorepo Management
 ========================================================================================================
 ========================================================================================================
+# Numpy Project
 ========================================================================================================
 ========================================================================================================
+# Beginner NumPy Projects
+========================================================================================================
+Array Creation & Operations
+Matrix Calculator
+Vector Calculator
+Matrix Addition, Subtraction, Multiplication
+Matrix Transpose
+Matrix Determinant
+Matrix Inverse
+Matrix Reshape Tool
+Random Number Generator
+Statistical Calculator (Mean, Median, Std)
+========================================================================================================
+# Intermediate NumPy Projects
+========================================================================================================
+Image as NumPy Array
+Image Grayscale Converter
+Image Rotation & Flip
+Noise Generator
+Data Normalization
+Missing Value Handler
+CSV Data Analyzer (NumPy)
+Student Result Analysis
+Weather Data Analysis
+Sales Data Analysis
+========================================================================================================
+# Advanced NumPy Projects
+========================================================================================================
+Linear Regression (NumPy only)
+Logistic Regression (NumPy only)
+K-Means Clustering (NumPy only)
+Principal Component Analysis (PCA)
+Neural Network from Scratch
+Convolution Operation (CNN basics)
+Edge Detection Filter
+Image Compression using SVD
+Monte Carlo Simulation
+Recommendation Engine (NumPy-based)
+========================================================================================================
+# Scientific Computing Projects
+========================================================================================================
+Projectile Motion Simulation
+Population Growth Simulation
+Heat Diffusion Simulation
+Random Walk Simulation
+Numerical Integration
+Numerical Differentiation
+Matrix Equation Solver
+Eigenvalue & Eigenvector Calculator
+Fourier Transform Explorer
+Signal Processing Basics
 ========================================================================================================
 ========================================================================================================
+# pandas project
+========================================================================================================
+========================================================================================================
+# Beginner Pandas Projects (1–15)
+========================================================================================================
+CSV File Reader
+Excel File Analyzer
+Student Result Analysis
+Employee Data Analysis
+Sales Data Analysis
+Weather Data Analysis
+Customer Data Analysis
+Movie Dataset Analysis
+Cricket Statistics Analysis
+Population Data Analysis
+Data Cleaning Tool
+Missing Value Analyzer
+Duplicate Data Remover
+Data Filter & Sort Tool
+Basic Data Report Generator
+========================================================================================================
+# Intermediate Pandas Projects (16–30)
+========================================================================================================
+COVID-19 Data Analysis
+IPL Match Analysis
+Retail Sales Dashboard
+Banking Transaction Analysis
+Stock Market Data Analysis
+HR Analytics
+Student Attendance Analysis
+E-commerce Order Analysis
+Hospital Patient Analysis
+Flight Delay Analysis
+Olympic Data Analysis
+Restaurant Sales Analysis
+Call Center Performance Analysis
+Supermarket Sales Analysis
+Customer Segmentation
+========================================================================================================
+# Advanced Pandas Projects (31–45)
+========================================================================================================
+Sales Forecasting Data Preparation
+ETL Pipeline (Extract, Transform, Load)
+Data Validation Tool
+Automated Excel Report Generator
+Data Profiling Tool
+Large Dataset Processor
+Financial Statement Analysis
+Fraud Detection Data Preparation
+IoT Sensor Data Analysis
+Log File Analyzer
+Web Scraping + Pandas Analysis
+SQL + Pandas Reporting
+API Data Analysis
+Data Warehouse Preparation
+Business Intelligence Report
+========================================================================================================
+# Real-World Projects
+========================================================================================================
+Amazon Sales Analysis
+Netflix Dataset Analysis
+Spotify Songs Analysis
+YouTube Trending Videos Analysis
+FIFA Player Statistics Analysis
+Uber Trip Data Analysis
+Airbnb Listing Analysis
+World Population Analysis
+Global Temperature Analysis
+Earthquake Data Analysis
 ========================================================================================================
