@@ -1,4 +1,92 @@
-
+Beginner Projects (1–25)
+Hello World
+Calculator
+Even/Odd Checker
+Prime Number Checker
+Factorial Calculator
+Fibonacci Series
+Multiplication Table
+Number Guessing Game
+Rock Paper Scissors
+Dice Rolling Simulator
+Password Generator
+BMI Calculator
+Age Calculator
+Unit Converter
+Temperature Converter
+Countdown Timer
+Digital Clock
+Alarm Clock
+Calendar Program
+Quiz Game
+Hangman Game
+To-Do List (CLI)
+Contact Book
+Student Grade System
+Expense Tracker
+Intermediate Projects (26–50)
+File Organizer
+Notes App
+Text File Search Tool
+File Encryption Tool
+CSV Data Analyzer
+JSON Data Parser
+Weather App (API)
+Currency Converter (API)
+QR Code Generator
+Barcode Generator
+Image Converter
+Image Resizer
+PDF Merger
+PDF Splitter
+ZIP File Extractor
+Bulk File Renamer
+Web Scraper
+Email Sender
+SMS Sender (API)
+URL Shortener
+Password Manager
+Typing Speed Test
+URL Availability Checker
+Internet Speed Test
+Network Information Tool
+Advanced Projects (51–75)
+Multi-threaded File Downloader
+Chat Application (Sockets)
+HTTP Server
+FTP Client
+Log Analyzer
+System Monitor
+Task Scheduler
+Backup Automation Tool
+Web Crawler
+Command Line Assistant
+Voice Assistant
+OCR Text Extractor
+Face Detection
+Object Detection
+Image Classification
+Spam Email Detector
+Sentiment Analysis
+Stock Price Analyzer
+Data Visualization Dashboard
+SQL Database Manager
+REST API Client
+Markdown to HTML Converter
+Static Website Generator
+Mini Shell
+Mini Search Engine
+Automation Projects
+Folder Organizer
+Excel Automation
+PDF Automation
+Email Automation
+WhatsApp Message Automation
+Screenshot Automation
+Mouse & Keyboard Automation
+File Backup Script
+Log Cleaner
+Data Entry Automation
 
 
 
