@@ -314,3 +314,120 @@ Document Scanner
 Face Detection
 OCR System
 ========================================================================================================
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# Object Detection
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+========================================================================================================
+Beginner Object Detection Projects
+Basic Object Detector
+Face Detection
+Eye Detection
+Smile Detection
+Pedestrian Detection
+Car Detection
+Person Detection
+Animal Detection
+Ball Detection
+Color-Based Object Detection
+Shape-Based Object Detection
+QR Code Detection
+Barcode Detection
+Multiple Object Detection
+Webcam Real-Time Object Detection
+🟡 Intermediate Projects
+YOLO Object Detection
+YOLOv8/v11 Custom Object Detection
+Vehicle Detection
+Vehicle Counting
+People Counting
+Traffic Sign Detection
+Traffic Light Detection
+License Plate Detection
+Helmet Detection
+Face Mask Detection
+Fire Detection
+Smoke Detection
+Product Detection
+Fruit Detection
+Waste Detection
+🔴 Advanced Projects
+Custom Dataset Object Detection
+Real-Time Multi-Object Detection
+Object Tracking + Detection
+YOLO + DeepSORT
+Faster R-CNN
+SSD Object Detection
+RetinaNet
+DETR
+Grounding DINO
+Instance Segmentation
+Mask R-CNN
+Object Detection + OCR
+3D Object Detection
+Video Object Detection
+Multi-Camera Object Detection
+🚀 Real-World Projects
+Autonomous Vehicle Object Detection
+Smart Traffic Monitoring
+Road Damage Detection
+Pedestrian Safety System
+Automatic Number Plate Recognition
+Smart Parking Detection
+Industrial Defect Detection
+Warehouse Object Detection
+Retail Product Detection
+Agricultural Crop Detection
+Fruit Ripeness Detection
+Plant Disease Detection
+Drone Object Detection
+Wildlife Detection
+AI Surveillance System
+========================================================================================================
+যে বিষয়গুলো শিখবেন
+Bounding Box
+Class Label
+Confidence Score
+IoU (Intersection over Union)
+Non-Maximum Suppression (NMS)
+Precision
+Recall
+mAP
+Anchor Boxes
+Object Tracking
+Dataset Annotation
+Data Augmentation
+Transfer Learning
+Model Fine-tuning
+প্রধান Algorithms/Models
+Haar Cascade
+HOG + SVM
+R-CNN
+Fast R-CNN
+Faster R-CNN
+SSD
+RetinaNet
+YOLO
+DETR
+Grounding DINO
+🛠️ প্রধান Libraries
+OpenCV
+PyTorch
+TensorFlow
+Ultralytics
+NumPy
+Matplotlib
+Roboflow
+========================================================================================================
+প্রথমে এই 10টি Project করুন
+Face Detection
+Person Detection
+Car Detection
+Multiple Object Detection
+Webcam Object Detection
+YOLO Object Detection
+Vehicle Counting
+Traffic Sign Detection
+License Plate Detection
+Custom YOLO Object Detection
+========================================================================================================
+
