@@ -190,7 +190,7 @@ Online Shopping Database
 Banking Transaction System
 Data Warehouse
 Sales Analytics Database
-Data Analysis Projects (SQL)
+# Data Analysis Projects (SQL)
 Sales Dashboard
 Customer Segmentation
 Employee Performance Analysis
@@ -202,4 +202,45 @@ Stock Market Database
 Movie Rating Analysis
 Retail Analytics
 ========================================================================================================
-
+#Beginner Projects
+Create a Git repository
+Initialize a local project (git init)
+Make your first commit
+Create and manage branches
+Merge branches
+Resolve merge conflicts
+Push a project to GitHub
+Clone a GitHub repository
+Fork an open-source repository
+Create a .gitignore file
+========================================================================================================
+# Intermediate Projects
+Personal Portfolio Repository
+Python Projects Repository
+C/C++ Projects Repository
+Markdown Documentation Project
+Team Collaboration Project
+GitHub Pages Personal Website
+Version-controlled Notes Repository
+Bug Tracker Repository
+Project Template Repository
+Release Management with Git Tags
+========================================================================================================
+# Advanced Projects
+Open Source Contribution
+Multi-Branch Development Workflow
+GitHub Actions CI/CD Pipeline
+Automated Testing Workflow
+Static Website Deployment
+Docker + GitHub Integration
+Python Package on GitHub
+Collaborative Team Project
+Git Submodules Project
+Monorepo Management
+========================================================================================================
+========================================================================================================
+========================================================================================================
+========================================================================================================
+========================================================================================================
+========================================================================================================
+========================================================================================================
