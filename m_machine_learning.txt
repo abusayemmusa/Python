@@ -1,1 +1,643 @@
-
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# Scikit-learn
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# Beginner Projects (1–15)
+========================================================================================================
+Iris Flower Classification
+Titanic Survival Prediction
+House Price Prediction
+Student Score Prediction
+Salary Prediction
+Wine Quality Classification
+Diabetes Prediction
+Breast Cancer Detection
+Handwritten Digit Recognition
+Customer Purchase Prediction
+Loan Approval Prediction
+Employee Salary Classification
+Spam Email Detection
+Heart Disease Prediction
+Customer Churn Prediction
+========================================================================================================
+# Intermediate Projects (16–30)
+========================================================================================================
+Movie Recommendation System
+Credit Card Fraud Detection
+Customer Segmentation (K-Means)
+Mall Customer Clustering
+Sales Forecasting
+Stock Trend Prediction
+Energy Consumption Prediction
+Traffic Flow Prediction
+Weather Prediction
+Telecom Customer Analysis
+Employee Attrition Prediction
+Product Demand Forecasting
+Insurance Claim Prediction
+Medical Diagnosis Support
+House Price Dashboard
+========================================================================================================
+# Advanced Projects (31–45)
+========================================================================================================
+End-to-End Machine Learning Pipeline
+Hyperparameter Tuning Dashboard
+Feature Selection Tool
+Model Comparison Framework
+Ensemble Learning (Random Forest, Gradient Boosting)
+Stacking & Voting Classifiers
+Anomaly Detection System
+Fraud Detection Pipeline
+Customer Lifetime Value Prediction
+Predictive Maintenance
+Time Series Feature Engineering
+Explainable AI (SHAP/LIME)
+AutoML Experiment
+ML Model API (Flask/FastAPI)
+ML Model Deployment
+========================================================================================================
+# Real-World Projects (46–60)
+========================================================================================================
+Fake News Detection
+Sentiment Analysis
+Disease Risk Prediction
+Crop Yield Prediction
+Smart Agriculture Prediction
+E-commerce Recommendation
+Bank Loan Risk Assessment
+Traffic Accident Prediction
+Retail Sales Prediction
+Manufacturing Defect Detection
+Student Performance Dashboard
+Employee Performance Analytics
+Hospital Readmission Prediction
+Air Quality Prediction
+Earthquake Damage Prediction
+========================================================================================================
+# Scikit-learn Topics You'll Practice
+========================================================================================================
+Data Preprocessing
+Train/Test Split
+Pipelines
+Feature Scaling
+Encoding
+Missing Value Handling
+Linear Regression
+Logistic Regression
+Decision Trees
+Random Forest
+Support Vector Machines (SVM)
+K-Nearest Neighbors (KNN)
+Naive Bayes
+K-Means Clustering
+DBSCAN
+PCA
+Cross Validation
+Grid Search & Random Search
+Model Evaluation
+Feature Engineering
+========================================================================================================
+# Recommended Learning Order
+========================================================================================================
+Student Score Prediction
+Iris Flower Classification
+House Price Prediction
+Titanic Survival Prediction
+Spam Email Detection
+Customer Churn Prediction
+Customer Segmentation
+Credit Card Fraud Detection
+Model Comparison Framework
+End-to-End Machine Learning Pipeline
+Explainable AI (SHAP/LIME)
+ML Model Deployment
+========================================================================================================
+# Final Capstone Projects
+========================================================================================================
+End-to-End Customer Churn Prediction System
+House Price Prediction Web App
+Credit Card Fraud Detection System
+Movie Recommendation System
+Healthcare Disease Prediction Dashboard
+Retail Sales Forecasting Platform
+========================================================================================================
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# Regression
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# Beginner Regression Projects (1–10)
+========================================================================================================
+Student Marks Prediction
+House Price Prediction
+Salary Prediction
+Car Price Prediction
+Ice Cream Sales Prediction
+Exam Score Prediction
+Fuel Consumption Prediction
+Advertising Sales Prediction
+Temperature Prediction
+Electricity Bill Prediction
+========================================================================================================
+# Intermediate Regression Projects (11–20)
+========================================================================================================
+Medical Insurance Cost Prediction
+Used Car Price Prediction
+Employee Salary Estimation
+Apartment Rent Prediction
+Stock Price Trend Prediction
+Weather Temperature Forecast
+Energy Consumption Prediction
+Product Demand Forecasting
+Crop Yield Prediction
+Air Quality Prediction
+========================================================================================================
+# Advanced Regression Projects (21–30)
+========================================================================================================
+Real Estate Price Prediction
+Taxi Fare Prediction
+Bike Sharing Demand Prediction
+Sales Forecasting System
+Electricity Load Forecasting
+Customer Lifetime Value Prediction
+Time Series Regression
+Multi-output Regression
+End-to-End Regression Pipeline
+Regression Web Application (Flask/FastAPI)
+========================================================================================================
+# Regression Algorithms You'll Learn
+========================================================================================================
+Simple Linear Regression
+Multiple Linear Regression
+Polynomial Regression
+Ridge Regression
+Lasso Regression
+Elastic Net Regression
+Decision Tree Regression
+Random Forest Regression
+Support Vector Regression (SVR)
+Gradient Boosting Regression
+XGBoost Regression (পরবর্তীতে)
+========================================================================================================
+# Skills You'll Practice
+========================================================================================================
+Data Cleaning
+Feature Engineering
+Train/Test Split
+Feature Scaling
+Model Training
+Prediction
+Model Evaluation
+Cross Validation
+Hyperparameter Tuning
+Model Deployment
+========================================================================================================
+# Recommended Learning Order
+========================================================================================================
+Student Marks Prediction
+Salary Prediction
+House Price Prediction
+Car Price Prediction
+Medical Insurance Cost Prediction
+Bike Sharing Demand Prediction
+Sales Forecasting
+Random Forest Regression
+XGBoost Regression
+End-to-End Regression Pipeline
+========================================================================================================
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# Classification
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# Beginner Classification Projects (1–10)
+========================================================================================================
+Iris Flower Classification
+Titanic Survival Prediction
+Breast Cancer Detection
+Diabetes Prediction
+Heart Disease Prediction
+Wine Quality Classification
+Handwritten Digit Recognition (MNIST)
+Mushroom Classification (Edible/Poisonous)
+Student Pass/Fail Prediction
+Loan Approval Prediction
+========================================================================================================
+# Intermediate Classification Projects (11–20)
+========================================================================================================
+Spam Email Detection
+Fake News Detection
+Customer Churn Prediction
+Credit Card Fraud Detection
+Employee Attrition Prediction
+Customer Purchase Prediction
+Telecom Customer Classification
+Sentiment Analysis
+Disease Diagnosis System
+Bank Marketing Prediction
+========================================================================================================
+# Advanced Classification Projects (21–30)
+========================================================================================================
+Face Mask Detection
+Traffic Sign Classification
+Plant Disease Classification
+Skin Cancer Classification
+Product Category Classification
+Network Intrusion Detection
+Document Classification
+Image Classification (Custom Dataset)
+Multi-Class Classification Pipeline
+End-to-End Classification Web App
+========================================================================================================
+# Classification Algorithms You'll Learn
+========================================================================================================
+Logistic Regression
+K-Nearest Neighbors (KNN)
+Naive Bayes
+Decision Tree
+Random Forest
+Support Vector Machine (SVM)
+Gradient Boosting
+AdaBoost
+XGBoost
+LightGBM (Advanced)
+========================================================================================================
+# Skills You'll Practice
+========================================================================================================
+Data Preprocessing
+Feature Engineering
+Train/Test Split
+Handling Imbalanced Data
+Model Training
+Prediction
+Confusion Matrix
+Accuracy, Precision, Recall, F1-score
+ROC-AUC
+Cross Validation
+Hyperparameter Tuning
+========================================================================================================
+# Recommended Learning Order
+========================================================================================================
+Iris Flower Classification
+Student Pass/Fail Prediction
+Titanic Survival Prediction
+Breast Cancer Detection
+Spam Email Detection
+Customer Churn Prediction
+Credit Card Fraud Detection
+Traffic Sign Classification
+Random Forest Classification
+End-to-End Classification Pipeline
+========================================================================================================
+# Final Capstone Projects
+========================================================================================================
+Spam Email Detection System
+Customer Churn Prediction Platform
+Credit Card Fraud Detection System
+Disease Diagnosis Assistant
+Image Classification Application
+Network Intrusion Detection System
+========================================================================================================
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# Clustering
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+========================================================================================================
+# Beginner Clustering Projects (1–10)
+========================================================================================================
+Iris Dataset Clustering
+Mall Customer Segmentation
+Student Performance Grouping
+Employee Salary Grouping
+Sales Data Clustering
+Customer Age Group Analysis
+Housing Area Clustering
+Wine Dataset Clustering
+Population Density Clustering
+Product Category Grouping
+========================================================================================================
+# Intermediate Clustering Projects (11–20)
+========================================================================================================
+Customer Segmentation for Marketing
+E-commerce Customer Analysis
+Bank Customer Segmentation
+Movie Recommendation Clustering
+Music Genre Clustering
+News Article Clustering
+Document Clustering
+Image Color Quantization (K-Means)
+Network Traffic Clustering
+Retail Store Analysis
+========================================================================================================
+# Advanced Clustering Projects (21–30)
+========================================================================================================
+Image Segmentation
+Face Image Clustering
+Gene Expression Clustering
+Fraud Detection (Anomaly Detection)
+Social Network Community Detection
+Satellite Image Segmentation
+GPS Location Clustering
+Customer Behavior Analytics Dashboard
+Recommendation System using Clustering
+End-to-End Customer Segmentation Pipeline
+========================================================================================================
+# Clustering Algorithms You'll Learn
+========================================================================================================
+K-Means
+Mini-Batch K-Means
+Hierarchical Clustering
+DBSCAN
+OPTICS
+Mean Shift
+Gaussian Mixture Models (GMM)
+Spectral Clustering
+Birch
+Affinity Propagation
+========================================================================================================
+# Skills You'll Practice
+========================================================================================================
+Data Cleaning
+Feature Scaling
+Dimensionality Reduction (PCA)
+Choosing the Number of Clusters
+Elbow Method
+Silhouette Score
+Cluster Visualization
+Model Evaluation
+Pipeline Building
+========================================================================================================
+# Recommended Learning Order
+========================================================================================================
+Iris Dataset Clustering
+Mall Customer Segmentation
+Sales Data Clustering
+Customer Segmentation
+Bank Customer Segmentation
+Image Color Quantization
+Image Segmentation
+DBSCAN for Anomaly Detection
+GPS Location Clustering
+End-to-End Customer Segmentation Pipeline
+========================================================================================================
+# Final Capstone Projects
+========================================================================================================
+Customer Segmentation System
+Retail Sales Analysis Dashboard
+Image Segmentation Tool
+News Article Clustering System
+GPS Location Clustering Application
+Marketing Analytics Platform
+========================================================================================================
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# Model Evaluation
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+========================================================================================================
+# Beginner Projects (1–10)
+========================================================================================================
+Linear Regression Model Evaluation
+House Price Prediction Evaluation
+Student Marks Prediction Evaluation
+Iris Classification Evaluation
+Titanic Classification Evaluation
+Spam Email Classifier Evaluation
+Diabetes Prediction Evaluation
+Customer Churn Evaluation
+Confusion Matrix Visualizer
+Regression Metrics Dashboard
+========================================================================================================
+# Intermediate Projects (11–20)
+========================================================================================================
+Model Comparison (Linear Regression vs Random Forest)
+Classification Metrics Dashboard
+ROC Curve Analysis
+Precision–Recall Curve
+K-Fold Cross Validation
+Stratified K-Fold Validation
+Learning Curve Visualization
+Validation Curve Analysis
+Feature Importance Analysis
+Hyperparameter Tuning Comparison
+========================================================================================================
+# Advanced Projects (21–30)
+========================================================================================================
+End-to-End Model Evaluation Pipeline
+Regression Model Benchmark
+Classification Model Benchmark
+Automated Model Comparison Tool
+Bias–Variance Analysis
+Ensemble Model Evaluation
+Time Series Model Evaluation
+Explainable AI Dashboard (SHAP/LIME)
+ML Experiment Tracking
+Model Monitoring Dashboard
+========================================================================================================
+# Regression Metrics
+========================================================================================================
+Mean Absolute Error (MAE)
+Mean Squared Error (MSE)
+Root Mean Squared Error (RMSE)
+R² Score
+Adjusted R²
+Mean Absolute Percentage Error (MAPE)
+========================================================================================================
+# Classification Metrics
+========================================================================================================
+Accuracy
+Precision
+Recall
+F1-Score
+Specificity
+ROC-AUC
+Log Loss
+Confusion Matrix
+========================================================================================================
+# Validation Techniques
+========================================================================================================
+Train/Test Split
+K-Fold Cross Validation
+Stratified K-Fold
+Leave-One-Out Cross Validation (LOOCV)
+Repeated K-Fold
+Time Series Split
+========================================================================================================
+# Tools You'll Use
+========================================================================================================
+Scikit-learn
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Yellowbrick (Visualization)
+========================================================================================================
+# Recommended Learning Order
+========================================================================================================
+Confusion Matrix Visualizer
+Regression Metrics Dashboard
+Classification Metrics Dashboard
+ROC Curve Analysis
+K-Fold Cross Validation
+Feature Importance Analysis
+Hyperparameter Tuning Comparison
+Model Comparison Tool
+Explainable AI Dashboard
+End-to-End Model Evaluation Pipeline
+========================================================================================================
+# Final Capstone Projects
+========================================================================================================
+Machine Learning Model Evaluation Dashboard
+Automated Model Comparison Tool
+End-to-End Regression Evaluation Pipeline
+End-to-End Classification Evaluation Pipeline
+Explainable AI & Performance Analysis Dashboard
+========================================================================================================
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# Machine Learning  
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+========================================================================================================
+# Beginner Projects (1–15)
+========================================================================================================
+Student Marks Prediction
+House Price Prediction
+Salary Prediction
+Iris Flower Classification
+Titanic Survival Prediction
+Wine Quality Classification
+Diabetes Prediction
+Heart Disease Prediction
+Handwritten Digit Recognition
+Spam Email Detection
+Customer Churn Prediction
+Loan Approval Prediction
+Movie Rating Prediction
+Weather Prediction
+Sales Prediction
+========================================================================================================
+# Intermediate Projects (16–30)
+========================================================================================================
+Customer Segmentation (K-Means)
+Credit Card Fraud Detection
+Medical Insurance Cost Prediction
+Employee Attrition Prediction
+Retail Sales Forecasting
+Product Recommendation System
+Stock Market Prediction
+Energy Consumption Prediction
+Traffic Flow Prediction
+Crop Yield Prediction
+Bank Customer Analysis
+Flight Delay Prediction
+Hotel Booking Cancellation Prediction
+Telecom Customer Analytics
+Predictive Maintenance
+========================================================================================================
+# Advanced Projects (31–45)
+========================================================================================================
+Fake News Detection
+Sentiment Analysis
+Face Recognition
+Image Classification
+Object Detection
+Disease Diagnosis Assistant
+Recommendation Engine
+Anomaly Detection System
+Time Series Forecasting
+Customer Lifetime Value Prediction
+Explainable AI Dashboard
+AutoML Pipeline
+End-to-End ML Pipeline
+MLOps Pipeline
+Model Deployment API
+========================================================================================================
+# Real-World Projects (46–60)
+========================================================================================================
+Autonomous Vehicle Data Analysis
+Smart Agriculture System
+Hospital Readmission Prediction
+Air Quality Prediction
+Earthquake Damage Prediction
+Fraud Detection Platform
+E-commerce Recommendation System
+Manufacturing Defect Detection
+Resume Screening System
+Chatbot Intent Classification
+Financial Risk Prediction
+Smart Traffic Management
+Industrial IoT Predictive Analytics
+Social Media Analytics
+Personalized Learning System
+========================================================================================================
+# Machine Learning Topics You'll Learn
+========================================================================================================
+# Supervised Learning
+========================================================================================================
+Linear Regression
+Logistic Regression
+Decision Tree
+Random Forest
+Support Vector Machine (SVM)
+K-Nearest Neighbors (KNN)
+Naive Bayes
+========================================================================================================
+# Unsupervised Learning
+========================================================================================================
+K-Means
+Hierarchical Clustering
+DBSCAN
+Gaussian Mixture Models (GMM)
+Principal Component Analysis (PCA)
+========================================================================================================
+# Model Evaluation
+========================================================================================================
+Accuracy
+Precision
+Recall
+F1-Score
+ROC-AUC
+MAE
+MSE
+RMSE
+R² Score
+Cross Validation
+========================================================================================================
+# Feature Engineering
+========================================================================================================
+Missing Value Handling
+Encoding
+Feature Scaling
+Feature Selection
+PCA
+========================================================================================================
+# Hyperparameter Tuning
+========================================================================================================
+GridSearchCV
+RandomizedSearchCV
+Bayesian Optimization (advanced)
+========================================================================================================
+ # Deployment
+========================================================================================================
+Flask
+FastAPI
+Docker
+MLflow
+========================================================================================================
+# Recommended Learning Order
+========================================================================================================
+Student Marks Prediction
+House Price Prediction
+Iris Classification
+Titanic Survival Prediction
+Spam Email Detection
+Customer Segmentation
+Credit Card Fraud Detection
+Recommendation System
+Time Series Forecasting
+Explainable AI Dashboard
+End-to-End ML Pipeline
+ML Model Deployment
+========================================================================================================
+# Final Capstone Projects
+========================================================================================================
+End-to-End House Price Prediction System
+Credit Card Fraud Detection Platform
+Customer Churn Prediction Dashboard
+Movie Recommendation System
+Disease Diagnosis Assistant
+Smart Agriculture Prediction System
+Resume Screening AI
+Personalized Learning Platform
+========================================================================================================
