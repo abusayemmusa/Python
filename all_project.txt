@@ -1,0 +1,57 @@
+
+
+
+
+
+========================================================================================================
+# Beginner OOP Projects
+Student Management System
+Library Management System
+Bank Account System
+ATM System
+Employee Management System
+School Management System
+Contact Book
+Inventory Management System
+Shopping Cart
+Hotel Room Booking System
+Car Rental System
+Movie Ticket Booking System
+Restaurant Billing System
+Quiz System
+To-Do List (OOP)
+========================================================================================================
+# Intermediate OOP Projects
+Hospital Management System
+University Management System
+E-commerce System
+Online Food Ordering System
+Online Banking System
+Hotel Management System
+Airline Reservation System
+Railway Reservation System
+Parking Management System
+Pharmacy Management System
+Library Digital System
+Payroll System
+Gym Management System
+Vehicle Registration System
+Warehouse Management System
+========================================================================================================
+# Advanced OOP Projects
+Chess Game
+Snake Game (Pygame)
+Pac-Man Game
+Social Media Platform
+Chat Application
+File Management System
+File Compression Tool
+Mini Database Management System
+Compiler Simulator
+Operating System Simulator
+Banking Application with GUI
+POS (Point of Sale) System
+Learning Management System (LMS)
+Hospital ERP System
+E-commerce Backend
+========================================================================================================
