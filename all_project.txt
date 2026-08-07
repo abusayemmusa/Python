@@ -1081,7 +1081,7 @@ LU, QR, and SVD Decomposition
 PCA
 Linear Transformations
 ========================================================================================================
-Python Libraries
+# Python Libraries
 ========================================================================================================
 NumPy – Matrix ও Vector Operations
 SciPy – Linear Algebra Algorithms
@@ -1278,6 +1278,56 @@ Autocomplete System
 Recommendation Engine
 Job Scheduler
 Mini Database Engine
+========================================================================================================
+# DSA Topics You'll Practice
+========================================================================================================
+Arrays
+Strings
+Linked Lists
+Stacks
+Queues
+Hash Tables
+Trees
+Heaps
+Tries
+Graphs
+Recursion
+Sorting Algorithms
+Searching Algorithms
+Dynamic Programming
+Greedy Algorithms
+Backtracking
+Divide & Conquer
+Graph Algorithms
+String Algorithms
+========================================================================================================
+Recommended Learning Order
+========================================================================================================
+Array Operations
+String Toolkit
+Searching Algorithms
+Sorting Visualizer
+Stack & Queue
+Linked List
+Binary Search Tree
+Hash Table
+Graph Traversal (BFS & DFS)
+Dijkstra Algorithm
+Trie
+LRU Cache
+Segment Tree
+Union-Find
+Search Engine Prototype
+========================================================================================================
+# Capstone Projects
+========================================================================================================
+DSA Visualizer (arrays, linked lists, trees, graphs, sorting)
+Mini Search Engine
+GPS Navigation System
+File Compression Tool (Huffman Coding)
+Autocomplete & Spell Checker (Trie)
+Mini Database Engine
+========================================================================================================
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 # Scikit-learn
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
@@ -1352,6 +1402,54 @@ Employee Performance Analytics
 Hospital Readmission Prediction
 Air Quality Prediction
 Earthquake Damage Prediction
+========================================================================================================
+# Scikit-learn Topics You'll Practice
+========================================================================================================
+Data Preprocessing
+Train/Test Split
+Pipelines
+Feature Scaling
+Encoding
+Missing Value Handling
+Linear Regression
+Logistic Regression
+Decision Trees
+Random Forest
+Support Vector Machines (SVM)
+K-Nearest Neighbors (KNN)
+Naive Bayes
+K-Means Clustering
+DBSCAN
+PCA
+Cross Validation
+Grid Search & Random Search
+Model Evaluation
+Feature Engineering
+========================================================================================================
+# Recommended Learning Order
+========================================================================================================
+Student Score Prediction
+Iris Flower Classification
+House Price Prediction
+Titanic Survival Prediction
+Spam Email Detection
+Customer Churn Prediction
+Customer Segmentation
+Credit Card Fraud Detection
+Model Comparison Framework
+End-to-End Machine Learning Pipeline
+Explainable AI (SHAP/LIME)
+ML Model Deployment
+========================================================================================================
+# Final Capstone Projects
+========================================================================================================
+End-to-End Customer Churn Prediction System
+House Price Prediction Web App
+Credit Card Fraud Detection System
+Movie Recommendation System
+Healthcare Disease Prediction Dashboard
+Retail Sales Forecasting Platform
+========================================================================================================
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 # Regression
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
@@ -1393,6 +1491,47 @@ Time Series Regression
 Multi-output Regression
 End-to-End Regression Pipeline
 Regression Web Application (Flask/FastAPI)
+========================================================================================================
+# Regression Algorithms You'll Learn
+========================================================================================================
+Simple Linear Regression
+Multiple Linear Regression
+Polynomial Regression
+Ridge Regression
+Lasso Regression
+Elastic Net Regression
+Decision Tree Regression
+Random Forest Regression
+Support Vector Regression (SVR)
+Gradient Boosting Regression
+XGBoost Regression (পরবর্তীতে)
+========================================================================================================
+# Skills You'll Practice
+========================================================================================================
+Data Cleaning
+Feature Engineering
+Train/Test Split
+Feature Scaling
+Model Training
+Prediction
+Model Evaluation
+Cross Validation
+Hyperparameter Tuning
+Model Deployment
+========================================================================================================
+# Recommended Learning Order
+========================================================================================================
+Student Marks Prediction
+Salary Prediction
+House Price Prediction
+Car Price Prediction
+Medical Insurance Cost Prediction
+Bike Sharing Demand Prediction
+Sales Forecasting
+Random Forest Regression
+XGBoost Regression
+End-to-End Regression Pipeline
+========================================================================================================
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 # Classification
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
