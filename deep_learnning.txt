@@ -770,3 +770,159 @@ RAG
 AI Agents
 MLOps ও Deployment
 ========================================================================================================
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# Deep Learning
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+========================================================================================================
+# Beginner Deep Learning Projects (1–15)
+========================================================================================================
+Perceptron from Scratch
+XOR Problem Solver
+House Price Prediction (ANN)
+Student Score Prediction
+Iris Flower Classification
+Wine Quality Classification
+Diabetes Prediction
+Breast Cancer Detection
+MNIST Digit Recognition
+Fashion MNIST Classification
+Customer Churn Prediction
+Spam Email Detection
+Sentiment Analysis
+Basic Time Series Forecasting
+Neural Network Visualizer
+========================================================================================================
+# Intermediate Deep Learning Projects (16–30)
+========================================================================================================
+Cats vs Dogs Classification
+CIFAR-10 Image Classification
+Face Mask Detection
+Traffic Sign Recognition
+Plant Disease Detection
+OCR (Optical Character Recognition)
+Text Classification
+Movie Review Sentiment Analysis
+LSTM Stock Price Prediction
+Machine Translation
+Chatbot Intent Classification
+Recommendation System
+Face Recognition
+Human Activity Recognition
+Predictive Maintenance
+========================================================================================================
+# Advanced Deep Learning Projects (31–45)
+========================================================================================================
+Object Detection (YOLO)
+Image Segmentation (U-Net)
+GAN (Image Generation)
+Variational Autoencoder (VAE)
+Transformer from Scratch
+BERT Fine-Tuning
+GPT Text Generation
+Image Captioning
+Speech Recognition
+Neural Style Transfer
+Super Resolution
+Video Action Recognition
+Deep Reinforcement Learning
+Multimodal AI
+End-to-End Deep Learning Pipeline
+========================================================================================================
+# Real-World Projects (46–60)
+========================================================================================================
+Autonomous Vehicle Vision
+Medical Diagnosis AI
+AI Chatbot
+Voice Assistant
+Smart Agriculture AI
+Industrial Defect Detection
+Fire & Smoke Detection
+Drone Vision System
+AI Attendance System
+Financial Fraud Detection
+Retail Recommendation System
+Smart Surveillance
+Document Understanding AI
+AI Coding Assistant
+End-to-End AI Platform
+========================================================================================================
+========================================================================================================
+# Deep Learning Topics You'll Learn
+========================================================================================================
+========================================================================================================
+# Neural Networks
+========================================================================================================
+Perceptron
+ANN (Artificial Neural Networks)
+DNN (Deep Neural Networks)
+========================================================================================================
+# Computer Vision
+========================================================================================================
+CNN
+Transfer Learning
+Object Detection
+Image Segmentation
+========================================================================================================
+# Sequence Models
+========================================================================================================
+RNN
+LSTM
+GRU
+========================================================================================================
+# Modern Deep Learning
+========================================================================================================
+Transformers
+BERT
+GPT
+Vision Transformer (ViT)
+========================================================================================================
+# Generative AI
+========================================================================================================
+GAN
+VAE
+Diffusion Models (Introduction)
+========================================================================================================
+# Optimization
+========================================================================================================
+Backpropagation
+Gradient Descent
+Adam Optimizer
+Learning Rate Scheduling
+Batch Normalization
+Dropout
+========================================================================================================
+# Frameworks
+========================================================================================================
+TensorFlow/Keras
+PyTorch
+========================================================================================================
+# Recommended Learning Order
+========================================================================================================
+Perceptron
+ANN
+MNIST Digit Recognition
+CNN (Cats vs Dogs)
+LSTM (Time Series)
+Face Recognition
+YOLO Object Detection
+U-Net Segmentation
+GAN
+Transformer
+BERT
+GPT
+Multimodal AI
+End-to-End Deep Learning System
+========================================================================================================
+# Final Capstone Projects
+========================================================================================================
+Face Recognition Attendance System
+Medical Image Diagnosis AI
+AI Chatbot
+Voice Assistant
+Autonomous Vehicle Vision
+Plant Disease Detection
+AI Coding Assistant
+Smart Surveillance System
+Industrial Quality Inspection
+End-to-End Deep Learning Application
+========================================================================================================
