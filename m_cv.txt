@@ -1,0 +1,146 @@
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# Computer Vision
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+========================================================================================================
+# Beginner OpenCV Projects
+========================================================================================================
+Image Viewer
+Image Resizer
+Image Cropper
+Image Rotator
+Image Flipper
+Grayscale Converter
+Image Blur Tool
+Image Sharpening
+Edge Detection
+Image Thresholding
+Color Detection
+RGB/HSV Color Analyzer
+Drawing Tool
+Webcam Capture
+Screenshot Tool
+========================================================================================================
+# Intermediate OpenCV Projects
+========================================================================================================
+Face Detection
+Eye Detection
+Smile Detection
+Face Blur / Anonymizer
+Motion Detection
+Object Tracking
+Color Object Tracking
+Contour Detection
+Shape Detection
+Circle Detection
+Line Detection
+QR Code Scanner
+Barcode Scanner
+Document Scanner
+Perspective Transformation
+========================================================================================================
+# Advanced OpenCV Projects
+========================================================================================================
+Face Recognition
+Face Attendance System
+Real-Time Object Detection
+Object Tracking System
+People Counter
+Vehicle Detection
+Vehicle Counting
+License Plate Detection
+OCR System
+Hand Gesture Recognition
+Finger Counter
+Pose Estimation
+Human Activity Recognition
+Background Removal
+Image Stitching
+========================================================================================================
+# Advanced Computer Vision Projects
+========================================================================================================
+Autonomous Vehicle Vision
+Lane Detection System
+Traffic Sign Detection
+Traffic Monitoring System
+Pedestrian Detection
+Driver Drowsiness Detection
+Fire & Smoke Detection
+Facial Emotion Recognition
+Object Segmentation
+Road Damage Detection
+Industrial Defect Detection
+Smart Surveillance System
+Drone Vision System
+AR Object Overlay
+Real-Time Computer Vision System
+========================================================================================================
+========================================================================================================
+# Important Topics in OpenCV
+========================================================================================================
+========================================================================================================
+# Image Processing
+========================================================================================================
+Image Read/Write
+Resize
+Crop
+Rotate
+Flip
+Color Conversion
+Blur
+Sharpening
+Thresholding
+Morphological Operations
+========================================================================================================
+# Feature & Shape Detection
+========================================================================================================
+Edges
+Contours
+Lines
+Circles
+Corners
+Features
+========================================================================================================
+# Video Processing
+========================================================================================================
+Webcam
+Video Capture
+Frame Processing
+Motion Detection
+Object Tracking
+========================================================================================================
+# Object Detection
+========================================================================================================
+Haar Cascade
+HOG
+DNN
+OpenCV with YOLO
+========================================================================================================
+# Face & Human Vision
+========================================================================================================
+Face Detection
+Face Recognition
+Eye Detection
+Pose Estimation
+Hand Tracking
+========================================================================================================
+# Advanced
+========================================================================================================
+OCR
+Image Segmentation
+Perspective Transform
+Optical Flow
+Feature Matching
+Camera Calibration
+Stereo Vision
+========================================================================================================
+# Important Libraries
+========================================================================================================
+OpenCV (cv2)
+NumPy
+Matplotlib
+Pillow
+MediaPipe
+TensorFlow / Keras
+PyTorch
+Ultralytics YOLO
+========================================================================================================
