@@ -344,6 +344,40 @@ Python Package on GitHub
 Collaborative Team Project
 Git Submodules Project
 Monorepo Management
+========================================================================================================
+# Git Skills You'll Practice
+========================================================================================================
+Repository creation
+git init
+git clone
+git status
+git add
+git commit
+git log
+git diff
+git branch
+git checkout / git switch
+git merge
+git rebase (advanced)
+git stash
+git tag
+git remote
+git push
+git pull
+git fetch
+Pull Requests
+Issues
+GitHub Actions
+Releases
+========================================================================================================
+# Final Challenge Projects
+========================================================================================================
+Build and maintain a Python project on GitHub.
+Contribute to an open-source project by fixing a bug or improving documentation.
+Create a complete portfolio repository with multiple projects.
+Set up GitHub Actions to automatically test your code.
+Collaborate with friends using branches and pull requests.
+========================================================================================================
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 # Numpy Project
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
@@ -398,6 +432,36 @@ Matrix Equation Solver
 Eigenvalue & Eigenvector Calculator
 Fourier Transform Explorer
 Signal Processing Basics
+========================================================================================================
+NumPy Concepts Used
+========================================================================================================
+Arrays (1D, 2D, 3D)
+Indexing & Slicing
+Broadcasting
+Vectorization
+Reshape
+Concatenate & Split
+Random Module
+Universal Functions (ufuncs)
+Aggregation (sum, mean, std, min, max)
+Linear Algebra (dot, inv, det, eig)
+Statistics
+Boolean Masking
+File I/O (loadtxt, genfromtxt, save, load)
+========================================================================================================
+Learning sequence
+========================================================================================================
+Array Creation
+Matrix Calculator
+Statistical Calculator
+CSV Data Analyzer
+Sales Data Analysis
+Image Processing
+Linear Regression (NumPy only)
+PCA
+Neural Network from Scratch
+Scientific Simulations
+========================================================================================================
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 # pandas project
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
@@ -468,6 +532,39 @@ Airbnb Listing Analysis
 World Population Analysis
 Global Temperature Analysis
 Earthquake Data Analysis
+========================================================================================================
+# Pandas Concepts You'll Practice
+========================================================================================================
+Series
+DataFrame
+Reading CSV/Excel/JSON
+Indexing (loc, iloc)
+Filtering
+Sorting
+Missing Values (isna, fillna, dropna)
+GroupBy
+Merge & Join
+Concatenation
+Pivot Table
+Aggregation
+Apply & Map
+DateTime Handling
+String Operations
+Export to CSV/Excel
+========================================================================================================
+# Recommended Learning Order
+========================================================================================================
+CSV File Reader
+Student Result Analysis
+Sales Data Analysis
+Data Cleaning Tool
+COVID-19 Data Analysis
+Retail Sales Dashboard
+Stock Market Data Analysis
+SQL + Pandas Reporting
+API Data Analysis
+Automated Excel Report Generator
+========================================================================================================
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 # matplotlib
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
@@ -537,6 +634,42 @@ YouTube Analytics Dashboard
 FIFA Player Statistics
 World Population Trends
 Climate Change Visualization
+========================================================================================================
+# Matplotlib Concepts You'll Learn
+========================================================================================================
+Figure & Axes
+plot()
+scatter()
+bar()
+barh()
+pie()
+hist()
+boxplot()
+stem()
+errorbar()
+subplot()
+Titles & Labels
+Legends
+Grid
+Annotations
+Styles
+Animations
+3D Plotting
+Saving Figures
+========================================================================================================
+# Recommended Learning Order
+========================================================================================================
+Line Chart
+Bar Chart
+Scatter Plot
+Histogram
+Multiple Line Plot
+Student Marks Visualization
+Sales Dashboard
+Stock Price Charts
+Animated Line Chart
+3D Surface Plot
+========================================================================================================
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 # seaborn project
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
@@ -611,6 +744,43 @@ Hospital Patient Dashboard
 Bank Customer Analysis
 Telecom Customer Churn Analysis
 Retail Sales Dashboard
+========================================================================================================
+# Seaborn Concepts You'll Learn
+========================================================================================================
+lineplot()
+scatterplot()
+barplot()
+countplot()
+histplot()
+kdeplot()
+boxplot()
+violinplot()
+stripplot()
+swarmplot()
+pairplot()
+jointplot()
+heatmap()
+clustermap()
+FacetGrid
+PairGrid
+catplot()
+relplot()
+displot()
+lmplot()
+========================================================================================================
+# Recommended Learning Order
+========================================================================================================
+Line Plot
+Scatter Plot
+Bar Plot
+Histogram
+Box Plot
+Heatmap
+Pair Plot
+Titanic Dataset Analysis
+Correlation Dashboard
+Customer Segmentation Visualization
+========================================================================================================
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 # Statistics
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
@@ -685,6 +855,39 @@ Telecom Customer Churn Statistics
 Manufacturing Quality Control
 Website Traffic Statistics
 Social Media Engagement Analysis
+========================================================================================================
+# Statistics Topics You'll Practice
+========================================================================================================
+Descriptive Statistics
+Probability
+Probability Distributions
+Sampling
+Central Limit Theorem
+Confidence Intervals
+Hypothesis Testing
+Correlation
+Covariance
+Regression
+ANOVA
+Chi-Square Test
+PCA
+Monte Carlo Simulation
+Bayesian Statistics
+Time Series Analysis
+========================================================================================================
+# Recommended Learning Order
+========================================================================================================
+Mean, Median, Mode Calculator
+Standard Deviation Calculator
+Histogram & Box Plot
+Correlation Calculator
+Normal Distribution Visualizer
+Central Limit Theorem Simulation
+Hypothesis Testing
+Regression Analysis
+Monte Carlo Simulation
+Statistical Dashboard
+========================================================================================================
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 # Probability
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
@@ -759,6 +962,21 @@ Manufacturing Defect Probability
 Website Click Probability
 Election Poll Probability
 Earthquake Probability Analysis
+========================================================================================================
+# Probability Concepts You'll Learn
+========================================================================================================
+Random Variables
+Sample Space
+Events
+Conditional Probability
+Bayes' Theorem
+Expected Value
+Variance
+Probability Distributions
+Monte Carlo Simulation
+Markov Chains
+Bayesian Inference
+========================================================================================================
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 # Linear Algebra
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
