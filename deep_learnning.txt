@@ -1,4 +1,9 @@
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# TensorFlow
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+========================================================================================================
 # Beginner TensorFlow Projects (1–15)
+========================================================================================================
 Hello TensorFlow
 Handwritten Digit Recognition (MNIST)
 Fashion MNIST Classification
@@ -14,7 +19,9 @@ Iris Flower Classification
 Customer Churn Prediction
 Bank Loan Prediction
 Simple Regression Model
-Intermediate TensorFlow Projects (16–30)
+========================================================================================================
+# Intermediate TensorFlow Projects (16–30)
+========================================================================================================
 Transfer Learning (MobileNet)
 Transfer Learning (ResNet)
 Face Mask Detection
@@ -30,7 +37,9 @@ News Classification
 Machine Translation (Basic)
 Text Generation (LSTM)
 Time Series Forecasting
-Advanced TensorFlow Projects (31–45)
+========================================================================================================
+# Advanced TensorFlow Projects (31–45)
+========================================================================================================
 YOLO Object Detection Integration
 GAN (Image Generation)
 DCGAN Face Generator
@@ -46,7 +55,8 @@ Sign Language Recognition
 Medical Image Analysis
 Multi-Modal AI Model
 End-to-End Deep Learning Pipeline
-Real-World Projects (46–60)
+========================================================================================================
+# Real-World Projects (46–60)
 Autonomous Vehicle Object Detection
 Smart Attendance System
 AI Surveillance System
@@ -62,44 +72,58 @@ Drone Vision System
 Wildlife Species Identification
 Document Understanding AI
 AI-Powered Search System
-TensorFlow Topics You'll Learn
+========================================================================================================
+# TensorFlow Topics You'll Learn
+========================================================================================================
 Fundamentals
 Tensor
 Tensor Operations
 TensorFlow Datasets
 tf.data
 tf.keras
-Deep Learning
+========================================================================================================
+# Deep Learning
+========================================================================================================
 Artificial Neural Networks (ANN)
 Convolutional Neural Networks (CNN)
 Recurrent Neural Networks (RNN)
 LSTM
 GRU
 Transformers
-Computer Vision
+========================================================================================================
+# Computer Vision
+========================================================================================================
 Image Classification
 Object Detection
 Image Segmentation
 Transfer Learning
-Natural Language Processing
+========================================================================================================
+# Natural Language Processing
+========================================================================================================
 Text Classification
 Sentiment Analysis
 Text Generation
 Translation
 BERT
-Model Training
+========================================================================================================
+# Model Training
+========================================================================================================
 Loss Functions
 Optimizers
 Callbacks
 Model Checkpointing
 Early Stopping
-Deployment
+========================================================================================================
+# Deployment
+========================================================================================================
 TensorFlow Lite
 TensorFlow Serving
 TensorFlow.js
 SavedModel
 ONNX (interoperability)
-Recommended Learning Order
+========================================================================================================
+# Recommended Learning Order
+========================================================================================================
 MNIST Digit Recognition
 Fashion MNIST
 House Price Prediction
@@ -112,7 +136,10 @@ GAN
 Transformer
 BERT Fine-Tuning
 End-to-End Deep Learning Pipeline
-Final Capstone Projects
+========================================================================================================
+# Final Capstone Projects
+========================================================================================================
+========================================================================================================
 Face Recognition Attendance System
 Medical Image Diagnosis AI
 Plant Disease Detection App
@@ -121,3 +148,131 @@ AI Chatbot
 Object Detection for Autonomous Robots
 Image Caption Generator
 End-to-End Deep Learning Web Application
+========================================================================================================
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# Neural Networks
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+========================================================================================================
+# Beginner Projects (1–15)
+========================================================================================================
+Perceptron from Scratch
+Single Neuron Implementation
+XOR Problem Solver
+Binary Classification (ANN)
+Student Score Prediction
+House Price Prediction
+Salary Prediction
+Iris Flower Classification
+Wine Quality Classification
+Diabetes Prediction
+Customer Churn Prediction
+Breast Cancer Detection
+Fashion MNIST Classification
+Handwritten Digit Recognition (MNIST)
+Multi-Class Classification
+========================================================================================================
+# Intermediate Projects (16–30)
+========================================================================================================
+Deep Neural Network (DNN)
+Hyperparameter Tuning
+Customer Segmentation with Autoencoder
+Spam Email Classification
+Sentiment Analysis
+Face Mask Detection
+Cat vs Dog Classification
+CIFAR-10 Image Classification
+Credit Card Fraud Detection
+Time Series Forecasting
+Energy Consumption Prediction
+Customer Lifetime Value Prediction
+Employee Attrition Prediction
+Medical Diagnosis
+Recommendation System
+Advanced Projects (31–45)
+Convolutional Neural Network (CNN)
+Recurrent Neural Network (RNN)
+Long Short-Term Memory (LSTM)
+GRU Network
+Autoencoder
+Variational Autoencoder (VAE)
+Generative Adversarial Network (GAN)
+Transformer Network
+BERT Fine-Tuning
+Neural Style Transfer
+Image Caption Generator
+Speech Recognition
+Machine Translation
+Object Detection
+Image Segmentation
+Real-World Projects (46–60)
+Face Recognition System
+Plant Disease Detection
+AI Medical Diagnosis
+Autonomous Driving Perception
+Smart Traffic Sign Recognition
+OCR System
+AI Chatbot
+Voice Assistant
+Stock Price Forecasting
+Retail Recommendation Engine
+Manufacturing Defect Detection
+Drone Vision
+Wildlife Classification
+Fake News Detection
+End-to-End AI Assistant
+Neural Network Topics You'll Learn
+Fundamentals
+Perceptron
+Activation Functions
+Forward Propagation
+Backpropagation
+Gradient Descent
+Loss Functions
+Optimizers (SGD, Adam, RMSprop)
+Architectures
+ANN
+DNN
+CNN
+RNN
+LSTM
+GRU
+Autoencoder
+GAN
+Transformer
+Regularization
+Dropout
+Batch Normalization
+Early Stopping
+L1/L2 Regularization
+Optimization
+Learning Rate Scheduling
+Hyperparameter Tuning
+Model Checkpointing
+Frameworks
+TensorFlow
+Keras
+PyTorch
+Recommended Learning Order
+Perceptron from Scratch
+XOR Problem Solver
+House Price Prediction (ANN)
+Iris Classification
+MNIST Digit Recognition
+Deep Neural Network
+CNN (Image Classification)
+LSTM (Time Series)
+GAN (Image Generation)
+Transformer
+BERT Fine-Tuning
+End-to-End AI Assistant
+Final Capstone Projects
+Face Recognition Attendance System
+Medical Diagnosis AI
+AI Chatbot
+Voice Assistant
+Object Detection System
+OCR Document Reader
+Recommendation Engine
+Smart Agriculture AI
+Autonomous Robot Vision
+End-to-End Deep Learning Platform
