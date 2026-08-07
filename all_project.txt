@@ -542,3 +542,79 @@ Bank Customer Analysis
 Telecom Customer Churn Analysis
 Retail Sales Dashboard
 ========================================================================================================
+========================================================================================================
+# Statistics
+========================================================================================================
+========================================================================================================
+# Beginner Statistics Projects (1–15)
+========================================================================================================
+Mean, Median, Mode Calculator
+Standard Deviation Calculator
+Variance Calculator
+Range & Interquartile Range (IQR) Calculator
+Percentile Calculator
+Quartile Calculator
+Z-Score Calculator
+Frequency Distribution Table
+Histogram Generator
+Box Plot Analyzer
+Correlation Calculator
+Covariance Calculator
+Probability Calculator
+Dice & Coin Toss Simulation
+Random Sampling Simulator
+========================================================================================================
+# Intermediate Statistics Projects (16–30)
+========================================================================================================
+Normal Distribution Visualizer
+Binomial Distribution Simulator
+Poisson Distribution Simulator
+Exponential Distribution Analysis
+Central Limit Theorem Simulation
+Confidence Interval Calculator
+Hypothesis Testing (Z-test)
+Hypothesis Testing (t-test)
+Chi-Square Test
+ANOVA Analysis
+Correlation Heatmap
+Regression Analysis
+A/B Testing Analysis
+Survey Data Analysis
+Customer Behavior Analysis
+========================================================================================================
+# Advanced Statistics Projects (31–45)
+========================================================================================================
+Monte Carlo Simulation
+Bootstrap Sampling
+Bayesian Probability Calculator
+Markov Chain Simulation
+Time Series Statistical Analysis
+Outlier Detection System
+PCA (Principal Component Analysis)
+Statistical Dashboard
+Financial Risk Analysis
+Fraud Detection Statistics
+Clinical Trial Analysis
+Sports Performance Analytics
+Population Growth Analysis
+Predictive Analytics
+Statistical Report Generator
+========================================================================================================
+# Real-World Projects (46–60)
+========================================================================================================
+COVID-19 Statistics Dashboard
+Stock Market Statistical Analysis
+Weather Data Statistics
+Student Performance Analysis
+Hospital Patient Statistics
+Cricket Statistics Dashboard
+Football Match Statistics
+Olympic Medal Statistics
+Sales & Revenue Statistics
+Customer Satisfaction Survey Analysis
+E-commerce Purchase Analysis
+Telecom Customer Churn Statistics
+Manufacturing Quality Control
+Website Traffic Statistics
+Social Media Engagement Analysis
+========================================================================================================
