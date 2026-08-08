@@ -1,0 +1,877 @@
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# Hugging Face
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+========================================================================================================
+# Beginner Hugging Face Projects
+========================================================================================================
+Sentiment Analysis
+Text Classification
+Spam Detection
+News Classification
+Emotion Classification
+Language Detection
+Named Entity Recognition (NER)
+Question Answering
+Text Summarization
+Text Generation
+Text Similarity
+Zero-Shot Classification
+Text Embedding Generator
+Image Classification
+Image-to-Text
+========================================================================================================
+# Intermediate Projects
+========================================================================================================
+Fine-Tune BERT
+Fine-Tune DistilBERT
+Fine-Tune RoBERTa
+Fine-Tune T5
+Multilingual Text Classification
+Document Classification
+Semantic Search
+FAQ Question Matching
+Document Question Answering
+PDF Summarizer
+Image Captioning
+Speech Recognition
+Text-to-Speech
+Translation System
+RAG Question Answering
+========================================================================================================
+# Advanced Projects
+========================================================================================================
+Fine-Tuning LLM
+LoRA Fine-Tuning
+PEFT
+Instruction Fine-Tuning
+RAG System
+Vector Embedding Search
+LLM Chatbot
+AI Agent
+Vision Transformer
+Multimodal AI
+Document Vision-Language Model
+Code Generation Model
+Custom NLP Model
+Custom Dataset Training
+LLM Evaluation System
+========================================================================================================
+# Real-World Projects
+========================================================================================================
+AI Customer Support Bot
+AI Tutor
+Research Paper Assistant
+PDF Question Answering
+Resume Analyzer
+Legal Document Assistant
+Medical Document Analyzer
+Multilingual Translator
+AI Coding Assistant
+Enterprise Search Engine
+Personal Knowledge Base
+Meeting Summarizer
+Smart Email Assistant
+Image Understanding Assistant
+End-to-End LLM Application
+========================================================================================================
+========================================================================================================
+# Key aspects of Hugging Face
+========================================================================================================
+========================================================================================================
+# Transformers
+========================================================================================================
+BERT
+RoBERTa
+DistilBERT
+T5
+BART
+GPT
+Llama
+Mistral
+Gemma
+Vision Transformer
+========================================================================================================
+# Datasets
+========================================================================================================
+Dataset Loading
+Dataset Processing
+Dataset Splitting
+Custom Dataset
+Dataset Mapping
+Data Collators
+========================================================================================================
+# Training
+========================================================================================================
+Tokenization
+TrainingArguments
+Trainer
+Fine-Tuning
+Evaluation
+Checkpointing
+Mixed Precision
+========================================================================================================
+# Advanced Fine-Tuning
+========================================================================================================
+LoRA
+QLoRA
+PEFT
+Instruction Tuning
+Parameter-Efficient Fine-Tuning
+========================================================================================================
+# Embeddings & RAG
+========================================================================================================
+Sentence Embeddings
+Semantic Search
+Vector Search
+Retrieval
+RAG
+Document Q&A
+========================================================================================================
+# Multimodal
+========================================================================================================
+Image Classification
+Image Captioning
+Vision-Language Models
+OCR
+Image + Text
+Audio + Text
+========================================================================================================
+# Deployment
+========================================================================================================
+Hugging Face Spaces
+Gradio
+Streamlit
+Inference API
+Model Deployment
+========================================================================================================
+# Main Libraries
+========================================================================================================
+transformers
+datasets
+tokenizers
+evaluate
+peft
+accelerate
+huggingface_hub
+diffusers
+sentence-transformers
+========================================================================================================
+# Do these 10 projects first.
+========================================================================================================
+Sentiment Analysis
+Text Classification
+NER
+Question Answering
+Text Summarization
+BERT Fine-Tuning
+Semantic Search
+PDF Q&A
+RAG Chatbot
+LoRA Fine-Tuned LLM
+========================================================================================================
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# RAG (Retrieval-Augmented Generation)
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+========================================================================================================
+# Beginner RAG Projects
+========================================================================================================
+PDF Question Answering
+Single Document Q&A
+TXT File Q&A
+Word Document Q&A
+CSV Question Answering
+FAQ RAG Bot
+Notes Q&A Assistant
+Book Q&A System
+Website Q&A
+Simple Semantic Search
+========================================================================================================
+# Intermediate RAG Projects
+========================================================================================================
+Multi-PDF RAG Chatbot
+Research Paper Q&A
+University Notes Assistant
+Legal Document Q&A
+Resume/Job Description Analyzer
+YouTube Transcript Q&A
+Website Knowledge Base
+SQL + RAG Assistant
+Multilingual RAG
+Conversational RAG
+Hybrid Search RAG
+Metadata Filtering RAG
+Citation-Based RAG
+RAG Search Engine
+Customer Support RAG Bot
+========================================================================================================
+# Advanced RAG Projects
+========================================================================================================
+RAG from Scratch
+Advanced Chunking System
+Query Rewriting RAG
+Multi-Query RAG
+HyDE RAG
+Parent-Document Retrieval
+Hybrid BM25 + Vector Search
+Reranking RAG
+Context Compression
+Self-RAG
+Corrective RAG (CRAG)
+Agentic RAG
+Graph RAG
+Multi-Modal RAG
+Long-Context RAG
+Multi-Agent RAG
+RAG Evaluation System
+Production RAG Pipeline
+RAG Monitoring System
+RAG Optimization System
+========================================================================================================
+# Real-World RAG Projects
+========================================================================================================
+AI Research Assistant
+University Knowledge Assistant
+Company Knowledge Base
+Customer Support AI
+Legal Document Assistant
+Medical Literature Assistant
+Financial Report Analyzer
+Research Paper Assistant
+AI Tutor
+Personal Knowledge Assistant
+Enterprise Search Engine
+Technical Documentation Assistant
+AI Coding Documentation Assistant
+Multilingual Knowledge Assistant
+Enterprise AI Agent
+========================================================================================================
+========================================================================================================
+# Important topics of RAG
+========================================================================================================
+========================================================================================================
+# Document Processing
+========================================================================================================
+PDF Loader
+Web Loader
+CSV Loader
+DOCX Loader
+OCR
+Metadata
+========================================================================================================
+# Chunking
+========================================================================================================
+Fixed-size Chunking
+Recursive Chunking
+Semantic Chunking
+Parent-Child Chunking
+========================================================================================================
+# Embeddings
+========================================================================================================
+Sentence Transformers
+BERT Embeddings
+OpenAI Embeddings
+Hugging Face Embeddings
+========================================================================================================
+# Vector Databases
+FAISS
+Chroma
+Qdrant
+Pinecone
+Weaviate
+Milvus
+========================================================================================================
+# Retrieval
+========================================================================================================
+Similarity Search
+MMR
+Hybrid Search
+Metadata Filtering
+Multi-Query Retrieval
+========================================================================================================
+# Advanced Retrieval
+========================================================================================================
+Reranking
+Query Rewriting
+HyDE
+Contextual Compression
+Parent Document Retrieval
+========================================================================================================
+# Advanced RAG
+========================================================================================================
+Self-RAG
+Corrective RAG
+Graph RAG
+Agentic RAG
+Multi-Modal RAG
+========================================================================================================
+# RAG Evaluation
+========================================================================================================
+Retrieval Precision
+Retrieval Recall
+Context Relevance
+Answer Faithfulness
+Answer Relevance
+End-to-End Evaluation
+========================================================================================================
+# Main Tools
+========================================================================================================
+LangChain
+LlamaIndex
+Hugging Face
+FAISS
+Chroma
+Qdrant
+Pinecone
+Sentence Transformers
+FastAPI
+Streamlit/Gradio
+========================================================================================================
+# Do these 10 projects first.
+========================================================================================================
+PDF Q&A
+Multiple PDF Q&A
+Semantic Search
+Research Paper Assistant
+University Notes Assistant
+Website RAG
+Conversational RAG
+Hybrid Search RAG
+Reranking RAG
+Agentic RAG
+========================================================================================================
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# Fine-Tuning
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+========================================================================================================
+# Beginner Fine-Tuning Projects
+========================================================================================================
+BERT Sentiment Analysis Fine-Tuning
+BERT Text Classification
+DistilBERT Spam Detection
+BERT News Classification
+BERT Emotion Classification
+BERT Named Entity Recognition (NER)
+BERT Question Answering
+RoBERTa Sentiment Analysis
+T5 Text Summarization
+T5 Translation
+========================================================================================================
+# Intermediate Projects
+========================================================================================================
+Custom Dataset Fine-Tuning
+Multilingual BERT Fine-Tuning
+Domain-Specific Text Classifier
+Medical Text Classification
+Legal Document Classification
+Customer Support Intent Classification
+Resume Classification
+Product Review Classification
+Document Question Answering
+Custom NER Model
+Instruction Fine-Tuning
+Text Generation Fine-Tuning
+Code Generation Fine-Tuning
+Small LLM Fine-Tuning
+Vision Transformer Fine-Tuning
+========================================================================================================
+# Advanced LLM Fine-Tuning
+========================================================================================================
+GPT Fine-Tuning
+Llama Fine-Tuning
+Mistral Fine-Tuning
+Gemma Fine-Tuning
+Qwen Fine-Tuning
+LoRA Fine-Tuning
+QLoRA Fine-Tuning
+PEFT
+Instruction Tuning
+Supervised Fine-Tuning (SFT)
+Parameter-Efficient Fine-Tuning
+Preference Optimization
+DPO
+RLHF
+Domain-Specific LLM
+========================================================================================================
+# Real-World Fine-Tuning Projects
+========================================================================================================
+Customer Support LLM
+Medical Literature Assistant
+Legal Document Assistant
+Financial Analysis Model
+AI Tutor
+Programming Assistant
+Bengali Language Model
+Bengali Text Classification Model
+Bengali NER Model
+Bengali Question Answering Model
+Company Knowledge Assistant
+Technical Documentation Assistant
+E-commerce AI Assistant
+Multilingual AI Assistant
+Domain-Specific Chatbot
+========================================================================================================
+# Important Concepts of Fine-Tuning
+========================================================================================================
+# Basic Fine-Tuning
+========================================================================================================
+Pretrained Model
+      ↓
+Custom Dataset
+      ↓
+Tokenization
+      ↓
+Training
+      ↓
+Validation
+      ↓
+Fine-Tuned Model
+      ↓
+Evaluation
+========================================================================================================
+Dataset
+========================================================================================================
+Dataset Collection
+Data Cleaning
+Data Formatting
+Train/Validation/Test Split
+Tokenization
+Data Augmentation
+Data Quality
+========================================================================================================
+3. Fine-Tuning Methods
+========================================================================================================
+Full Fine-Tuning
+Transfer Learning
+Feature Extraction
+LoRA
+QLoRA
+PEFT
+Adapter Fine-Tuning
+========================================================================================================
+4. LLM Training
+========================================================================================================
+Supervised Fine-Tuning (SFT)
+Instruction Tuning
+Preference Tuning
+DPO
+RLHF
+========================================================================================================
+5. Optimization
+========================================================================================================
+Learning Rate
+Batch Size
+Epochs
+Weight Decay
+Warmup
+Gradient Accumulation
+Gradient Clipping
+Mixed Precision
+========================================================================================================
+6. Evaluation
+========================================================================================================
+Accuracy
+Precision
+Recall
+F1
+Perplexity
+BLEU
+ROUGE
+BERTScore
+Human Evaluation
+========================================================================================================
+# Main Tools
+========================================================================================================
+Hugging Face Transformers
+Hugging Face Datasets
+PEFT
+TRL
+Accelerate
+PyTorch
+TensorFlow/Keras
+Weights & Biases
+MLflow
+========================================================================================================
+# Do these 10 projects first.
+========================================================================================================
+BERT Sentiment Fine-Tuning
+BERT Spam Classifier
+BERT NER
+BERT Question Answering
+T5 Summarization
+Custom Dataset Fine-Tuning
+Llama/Small LLM LoRA Fine-Tuning
+QLoRA Fine-Tuning
+Instruction Fine-Tuning
+Domain-Specific LLM
+========================================================================================================
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# AI Agents
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+========================================================================================================
+# Beginner AI Agent Projects
+========================================================================================================
+Simple LLM Agent
+Calculator Agent
+Weather Information Agent
+Web Search Agent
+Wikipedia Research Agent
+File Reading Agent
+PDF Q&A Agent
+Email Drafting Agent
+Text Summarization Agent
+Translation Agent
+CSV Data Analysis Agent
+SQL Query Agent
+Code Explanation Agent
+Document Search Agent
+FAQ Agent
+========================================================================================================
+# Intermediate AI Agent Projects
+========================================================================================================
+RAG Agent
+Research Assistant Agent
+Customer Support Agent
+Personal Assistant
+Browser Agent
+Email Management Agent
+Calendar Assistant
+Database Agent
+Data Analysis Agent
+Coding Assistant
+GitHub Repository Assistant
+Document Management Agent
+Financial Analysis Agent
+E-commerce Assistant
+Multi-Tool Agent
+========================================================================================================
+# Advanced AI Agent Projects
+========================================================================================================
+Multi-Agent System
+Multi-Agent Research System
+Agentic RAG
+Planning Agent
+Reflection Agent
+Self-Correcting Agent
+Tool-Calling Agent
+Long-Term Memory Agent
+Autonomous Coding Agent
+Autonomous Research Agent
+Web Browsing Agent
+Computer-Use Agent
+Multi-Modal Agent
+Voice AI Agent
+Agent Evaluation System
+========================================================================================================
+# Real-World AI Agent Projects
+========================================================================================================
+AI Research Assistant
+AI Coding Assistant
+AI Customer Support Agent
+AI Tutor
+Personal AI Assistant
+Company Knowledge Agent
+Financial Research Agent
+Legal Research Agent
+Medical Literature Research Agent
+E-commerce Shopping Agent
+Travel Planning Agent
+Automated Data Analyst
+DevOps Agent
+Software Testing Agent
+Autonomous Multi-Agent Platform
+========================================================================================================
+========================================================================================================
+# Key Concepts of AI Agents
+========================================================================================================
+========================================================================================================
+User
+ ↓
+LLM
+ ↓
+Reasoning / Planning
+ ↓
+Tool Selection
+ ↓
+Tool Execution
+ ↓
+Observation
+ ↓
+LLM
+ ↓
+Final Answer
+========================================================================================================
+# Tools
+========================================================================================================
+Web Search
+Calculator
+Python
+Database
+API
+File System
+Code Execution
+Browser
+External Services
+========================================================================================================
+# Memory
+========================================================================================================
+Short-Term Memory
+Conversation Memory
+Long-Term Memory
+Vector Memory
+Persistent Memory
+========================================================================================================
+RAG + Agents
+========================================================================================================
+User Question
+      ↓
+Agent
+      ↓
+Retriever
+      ↓
+Vector Database
+      ↓
+Relevant Documents
+      ↓
+LLM
+      ↓
+Answer
+========================================================================================================
+# Multi-Agent
+========================================================================================================
+                Manager Agent
+                      ↓
+        ┌─────────────┼─────────────┐
+        ↓             ↓             ↓
+ Research Agent   Coding Agent   Data Agent
+        ↓             ↓             ↓
+        └─────────────┼─────────────┘
+                      ↓
+                Final Answer
+========================================================================================================
+# Key Tools / Frameworks
+========================================================================================================
+LangChain
+LangGraph
+LlamaIndex
+AutoGen
+CrewAI
+Hugging Face
+OpenAI API
+Anthropic API
+Google Gemini
+Ollama
+FastAPI
+Docker
+========================================================================================================
+# Do these 10 projects first
+========================================================================================================
+Calculator Agent
+Web Search Agent
+PDF Q&A Agent
+RAG Agent
+SQL Data Agent
+Research Assistant
+Coding Assistant
+Multi-Tool Agent
+Multi-Agent Research System
+Autonomous AI Agent
+========================================================================================================
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# Large Language Models (LLMs)
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+========================================================================================================
+# Beginner LLM Projects
+========================================================================================================
+Simple LLM Chatbot
+Prompt Engineering Assistant
+Text Summarizer
+Question Answering Bot
+Sentiment Analysis
+Text Classification
+Translation Assistant
+Email Generator
+Story Generator
+Code Explanation Assistant
+FAQ Chatbot
+Document Q&A
+PDF Summarizer
+Text Rewriter
+Basic RAG Chatbot
+========================================================================================================
+# Intermediate LLM Projects
+========================================================================================================
+BERT Fine-Tuning
+T5 Fine-Tuning
+Llama Fine-Tuning
+LoRA Fine-Tuning
+QLoRA Fine-Tuning
+Semantic Search
+Vector Database Search
+RAG System
+Conversational RAG
+Multi-Document RAG
+AI Research Assistant
+AI Coding Assistant
+SQL Agent
+Document Intelligence System
+Multilingual LLM Application
+========================================================================================================
+# Advanced LLM Projects
+========================================================================================================
+Transformer from Scratch
+GPT from Scratch
+Tokenizer from Scratch
+Attention Mechanism from Scratch
+LLM Pretraining Pipeline
+Instruction Fine-Tuning
+Supervised Fine-Tuning (SFT)
+Preference Optimization
+DPO
+RLHF
+Mixture of Experts (MoE)
+Long-Context LLM
+Multimodal LLM
+LLM Evaluation Framework
+LLM Inference Optimization
+========================================================================================================
+# Real-World LLM Projects
+========================================================================================================
+AI Customer Support Agent
+AI Tutor
+AI Coding Assistant
+Research Paper Assistant
+Legal Document Assistant
+Financial Report Analyzer
+Medical Literature Assistant
+Enterprise Knowledge Assistant
+Personal AI Assistant
+Multilingual AI Assistant
+AI Search Engine
+Autonomous Research Agent
+Multi-Agent LLM System
+Voice AI Assistant
+End-to-End LLM Platform
+========================================================================================================
+========================================================================================================
+# Important topics in LLMs
+========================================================================================================
+========================================================================================================
+1. Transformer Fundamentals
+========================================================================================================
+Tokenization
+Embeddings
+Positional Encoding
+Self-Attention
+Multi-Head Attention
+Feed-Forward Network
+Layer Normalization
+Residual Connections
+========================================================================================================
+# LLM Architecture
+========================================================================================================
+Text
+ ↓
+Tokenizer
+ ↓
+Token IDs
+ ↓
+Embeddings
+ ↓
+Transformer
+ ↓
+Attention
+ ↓
+Feed Forward
+ ↓
+Output Logits
+ ↓
+Next Token
+ ↓
+Generated Text
+========================================================================================================
+# LLM Training
+========================================================================================================
+Pretraining
+Causal Language Modeling
+Masked Language Modeling
+Dataset Preparation
+Distributed Training
+Mixed Precision
+Gradient Accumulation
+Learning Rate Scheduling
+========================================================================================================
+# Fine-Tuning
+========================================================================================================
+Transfer Learning
+Full Fine-Tuning
+SFT
+LoRA
+QLoRA
+PEFT
+Instruction Tuning
+DPO
+RLHF
+========================================================================================================
+# LLM Application Development
+========================================================================================================
+Prompt Engineering
+Function Calling
+Tool Calling
+Structured Output
+Embeddings
+RAG
+Vector Databases
+AI Agents
+Memory
+========================================================================================================
+# LLM Evaluation
+========================================================================================================
+Perplexity
+Accuracy
+BLEU
+ROUGE
+BERTScore
+Human Evaluation
+Hallucination Detection
+RAG Evaluation
+Safety Evaluation
+========================================================================================================
+# LLM Optimization
+========================================================================================================
+Quantization
+Pruning
+Distillation
+KV Cache
+Flash Attention
+Batching
+Model Compression
+========================================================================================================
+# Key Tools & Frameworks
+========================================================================================================
+PyTorch
+Hugging Face Transformers
+Hugging Face Datasets
+PEFT
+TRL
+LangChain
+LangGraph
+LlamaIndex
+vLLM
+Ollama
+FAISS / Qdrant / Chroma
+FastAPI
+Docker
+========================================================================================================
+# Do these 10 projects first
+========================================================================================================
+LLM Chatbot
+Text Summarizer
+Question Answering
+BERT Fine-Tuning
+Llama/Small LLM LoRA Fine-Tuning
+Semantic Search
+RAG Chatbot
+AI Research Assistant
+AI Coding Assistant
+Multi-Agent LLM System
+======================================================================================================== 
