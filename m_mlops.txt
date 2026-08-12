@@ -319,12 +319,159 @@ Artifacts
  ↓
 Model
 ========================================================================================================
-
+# You will track:
 ========================================================================================================
-
-
-
-
+Parameters
+Metrics
+Models
+Dataset
+Artifacts
+Tags
+========================================================================================================
+# MLflow Projects
+========================================================================================================
+Reproducible ML Code
+Environment Management
+Project Configuration
+Dependency Management
+========================================================================================================
+# MLflow Models
+========================================================================================================
+Model Packaging
+Model Serialization
+Model Loading
+Model Serving
+========================================================================================================
+# Model Registry
+========================================================================================================
+Training
+   ↓
+Experiment
+   ↓
+Best Model
+   ↓
+Model Registry
+   ↓
+Version 1
+Version 2
+Version 3
+   ↓
+Production
+========================================================================================================
+# You will learn
+========================================================================================================
+Model Versioning
+Model Registration
+Model Aliases
+Model Lifecycle
+Model Promotion
+========================================================================================================
+# Model Deployment
+========================================================================================================
+MLflow Model Serving
+REST API
+Docker Deployment
+Cloud Deployment
+========================================================================================================
+# What you will learn with MLflow
+========================================================================================================
+Python
+Scikit-learn
+Pandas
+NumPy
+PyTorch
+TensorFlow
+XGBoost
+Git/GitHub
+Docker
+FastAPI
+PostgreSQL
+Kubernetes
+GitHub Actions
+Cloud Platforms
+========================================================================================================
+# Recommended Learning Order
+========================================================================================================
+Python
+ ↓
+Machine Learning
+ ↓
+Scikit-learn
+ ↓
+Git & GitHub
+ ↓
+Docker
+ ↓
+MLflow Tracking
+ ↓
+Experiment Management
+ ↓
+Model Logging
+ ↓
+Model Registry
+ ↓
+Model Versioning
+ ↓
+Model Deployment
+ ↓
+CI/CD
+ ↓
+Model Monitoring
+ ↓
+Data/Model Drift
+ ↓
+Automated Retraining
+ ↓
+Kubernetes
+ ↓
+Cloud MLOps
+========================================================================================================
+# Do these 10 projects first.
+========================================================================================================
+Scikit-learn + MLflow Experiment Tracking
+Hyperparameter Tuning + MLflow
+Multiple Model Comparison
+MLflow Model Registry
+Model Versioning
+Docker + MLflow
+FastAPI + MLflow Model Serving
+GitHub Actions + MLflow
+Model Monitoring + Drift Detection
+Automated ML Retraining Pipeline
+========================================================================================================
+# Best Capstone
+# End-to-End MLOps Platform
+========================================================================================================
+Dataset
+   ↓
+Data Processing
+   ↓
+Feature Engineering
+   ↓
+Model Training
+   ↓
+MLflow Tracking
+   ↓
+Experiment Comparison
+   ↓
+Best Model
+   ↓
+MLflow Model Registry
+   ↓
+Docker
+   ↓
+FastAPI
+   ↓
+CI/CD
+   ↓
+Cloud Deployment
+   ↓
+Monitoring
+   ↓
+Drift Detection
+   ↓
+Automatic Retraining
+========================================================================================================
 
 
 
