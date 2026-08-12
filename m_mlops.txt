@@ -231,8 +231,96 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 # MLflow
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 ========================================================================================================
+# Beginner MLflow Projects
+========================================================================================================
+ML Experiment Tracking
+Linear Regression Experiment Tracking
+Logistic Regression Tracking
+Decision Tree Tracking
+Random Forest Tracking
+KNN Experiment Tracking
+Model Parameter Logging
+Model Metric Logging
+Dataset Logging
+Model Artifact Logging
+MLflow UI Practice
+Model Saving & Loading
+Experiment Comparison
+Multiple Run Comparison
+Basic MLflow Project
+========================================================================================================
+# Intermediate MLflow Projects
+========================================================================================================
+Scikit-learn + MLflow
+XGBoost + MLflow
+PyTorch + MLflow
+TensorFlow + MLflow
+Hyperparameter Tuning + MLflow
+GridSearch + MLflow
+Cross-Validation Tracking
+Feature Engineering Tracking
+Model Versioning
+Model Registry
+Model Promotion
+Staging → Production Workflow
+Model Reproducibility
+MLflow + GitHub
+MLflow + Docker
+========================================================================================================
+# Advanced MLflow Projects
+========================================================================================================
+End-to-End ML Pipeline
+MLflow Tracking Server
+Remote Tracking Server
+MLflow Model Registry
+Automated Model Registration
+CI/CD + MLflow
+GitHub Actions + MLflow
+Docker + MLflow
+Kubernetes + MLflow
+Cloud MLflow Deployment
+Model Monitoring
+Model Drift Detection
+Data Drift Detection
+Automated Retraining Pipeline
+Production MLOps Platform
+========================================================================================================
+# Real-World MLflow Projects
+========================================================================================================
+Customer Churn MLOps System
+Credit Card Fraud Detection MLOps
+House Price Prediction Pipeline
+Recommendation System MLOps
+Image Classification MLOps
+NLP Model MLOps
+Computer Vision MLOps
+Time-Series Forecasting MLOps
+Model Monitoring Platform
+Automated ML Retraining System
+Multi-Model Registry
+Enterprise Model Management System
+LLM Experiment Tracking
+RAG Evaluation & Tracking
+End-to-End MLOps Platform
+========================================================================================================
+# MLflow Tracking
+========================================================================================================
+Code
+ ↓
+Experiment
+ ↓
+Run
+ ↓
+Parameters
+ ↓
+Metrics
+ ↓
+Artifacts
+ ↓
+Model
+========================================================================================================
 
-
+========================================================================================================
 
 
 
