@@ -1,8 +1,52 @@
 ========================================================================================================
+# The Python Standard Library (Built-In)
 ========================================================================================================
+os: Interacts with the operating system file paths and directories.
+math: Provides core mathematical functions and constants.
+datetime: Handles dates, times, timezones, and time intervals.
+json: Encodes and decodes JSON formatted data.
+re: Executes regular expressions for advanced pattern matching.
+collections: Extends built-in container types like lists and dictionaries.
+urllib: Manages URL handling and basic web requests.
+tkinter: Builds basic native desktop graphic user interfaces (GUIs)
 ========================================================================================================
+# Data Science & Mathematics
 ========================================================================================================
+NumPy: Handles efficient multi-dimensional array calculations and core linear algebra.
+Pandas: Offers high-performance data manipulation via DataFrames.
+SciPy: Extends NumPy with tools for advanced integration, optimization, and signal processing.
+Polars: Executes blazingly fast data manipulation built on Rust.
+SymPy: Performs symbolic mathematics, algebraic evaluation, and calculus.
 ========================================================================================================
+# Machine Learning & Artificial Intelligence
 ========================================================================================================
+Scikit-learn: Provides tools for classification, regression, and data clustering.
+TensorFlow: Acts as a comprehensive infrastructure framework for deep learning models.
+PyTorch: Delivers a dynamic framework optimized for deep neural network research.
+Keras: Offers a streamlined, high-level interface for neural network layers.
+XGBoost: Employs optimized gradient boosting algorithms for tabular data predictions.
+Hugging Face Transformers: Houses pre-trained models for state-of-the-art Natural Language Processing (NLP).
 ========================================================================================================
+# Data Visualization
+========================================================================================================
+Matplotlib: Serves as the foundational tool for building static or interactive charts.
+Seaborn: Builds beautiful, high-level statistical graphics on top of Matplotlib.
+Plotly: Generates highly interactive, web-ready graphs and complex dashboards.
+Bokeh: Creates interactive, browser-based visual displays for enormous datasets.
+========================================================================================================
+# Web Development & Web Scraping
+========================================================================================================
+Django: Acts as a full-featured "batteries-included" backend web framework.
+Flask: Serves as a lightweight micro-framework optimized for simple web apps.
+FastAPI: Builds high-performance, asynchronous APIs with automatic documentation.
+Requests: Sends user-friendly HTTP web requests seamlessly.
+Beautiful Soup: Parses structured data out of HTML and XML source code.
+Scrapy: Runs scalable web crawlers to systematically extract automated web data.
+========================================================================================================
+# Desktop GUIs, Games, & Computer Vision
+========================================================================================================
+: Provides extensive tools for crafting professional, native-looking desktop applications.
+PyGame: Supplies graphic and audio controls for developing 2D multimedia games.
+OpenCV: Drives advanced computer vision applications and real-time image processing.
+Streamlit: Turns data analysis scripts into shareable web apps instantly.
 ========================================================================================================
